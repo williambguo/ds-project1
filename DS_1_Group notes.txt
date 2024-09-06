@@ -1,0 +1,15 @@
+Focusing on helicopters
+
+filter by investigation.type to just accident
+
+keep event.date to track type of damage/helicopter over time
+
+aircraft damage/aircraft damage to see the range of damages done to helicopters
+
+filtering out the popular make/models of helicopters
+
+use broad phase of flight to track when damage occured??
+
+drop everything else??
+
+**trying to find most reliable helicopter**
