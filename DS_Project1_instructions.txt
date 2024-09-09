@@ -1,0 +1,6 @@
+big com vs small com planes 
+look at prices of top 5
+getting the mean of the injuries by make/model 
+turning weather into a numerical type 
+drop the 'true' amature builds 
+drop engine type/ number of engines 
