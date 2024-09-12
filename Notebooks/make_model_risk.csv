@@ -1,0 +1,2607 @@
+Make,Model,Mean_Risk_Index,Model_Total_Accidents
+aero commander,100,0.14595959595959598,33.0
+aero commander,100 180,0.08750000000000001,12.0
+aero commander,112,0.3125,20.0
+aero commander,112A,0.09523809523809523,14.0
+aero commander,114 B,0.3,1.0
+aero commander,114B,0.6,1.0
+aero commander,200D,0.12727272727272726,11.0
+aero commander,500,0.21739130434782608,23.0
+aero commander,500 A,0.0,1.0
+aero commander,500 B,0.2846153846153846,13.0
+aero commander,500 S,0.07380952380952381,12.0
+aero commander,500A,0.6,3.0
+aero commander,500B,0.38055555555555554,9.0
+aero commander,500S,0.29,10.0
+aero commander,500U,0.15,2.0
+aero commander,520,0.2,1.0
+aero commander,560,0.2875,20.0
+aero commander,560 F,0.6,3.0
+aero commander,560A,0.44999999999999996,1.0
+aero commander,560E,0.05,2.0
+aero commander,560F,0.3,2.0
+aero commander,600,0.08333333333333333,2.0
+aero commander,680,0.18333333333333335,6.0
+aero commander,680 E,0.2,2.0
+aero commander,680 F,0.0,2.0
+aero commander,680 FL,0.2333333333333333,1.0
+aero commander,680 FPL,0.6,1.0
+aero commander,680E,0.39999999999999997,3.0
+aero commander,680FL,0.6,3.0
+aero commander,680FLP,0.025,1.0
+aero commander,680V,0.6,1.0
+aero commander,681,0.3,2.0
+aero commander,685,0.09444444444444444,6.0
+aero commander,690,0.1125,12.0
+aero commander,690A,0.3102941176470588,17.0
+aero commander,690B,0.32254901960784316,17.0
+aero commander,695,0.0,1.0
+aero commander,700,0.0375,2.0
+aero commander,AC 100,0.0,1.0
+aero commander,AC 100 180,0.3,1.0
+aero commander,AC 500A,0.6,1.0
+aero commander,AC 500B,0.0,1.0
+aero commander,AC 690,0.0,3.0
+aero commander,AC200D (MEYERS),0.49999999999999994,1.0
+aero commander,AC50,0.0,1.0
+aero commander,CALAIR A 9B,0.44999999999999996,2.0
+aero commander,CALAIR A9B,0.6,1.0
+aero commander,CALLAIR,0.6,1.0
+aero commander,CALLAIR A 9,0.3,3.0
+aero commander,CALLAIR A 9B,0.13,10.0
+aero commander,GA 500 B,0.0,1.0
+aero commander,S 2R,0.12142857142857143,105.0
+aero commander,S2R,0.09427083333333332,96.0
+aero commander,S2R T34,0.17777777777777776,36.0
+aero commander,S2R THRUSH,0.0,1.0
+aero commander,ST R,0.3,1.0
+aeronca,0 58A,0.0,1.0
+aeronca,0 58B,0.09999999999999999,3.0
+aeronca,11 AC,0.175,4.0
+aeronca,11AC,0.11578947368421053,57.0
+aeronca,11AC 991,0.0,1.0
+aeronca,11BC,0.08499999999999999,10.0
+aeronca,11CC,0.05833333333333333,6.0
+aeronca,15AC,0.06304347826086956,23.0
+aeronca,58B,0.1,1.0
+aeronca,65,0.28214285714285714,14.0
+aeronca,65 C,0.1375,4.0
+aeronca,65 CA,0.375,6.0
+aeronca,65 LB,0.0,3.0
+aeronca,65 TAC,0.19999999999999998,3.0
+aeronca,65 TAC (L 3),0.0,1.0
+aeronca,65 TAF,0.0,1.0
+aeronca,65 TC,0.3,2.0
+aeronca,65 TL,0.0,1.0
+aeronca,65C,0.0,1.0
+aeronca,65CA,0.05,4.0
+aeronca,7 AC,0.09999999999999999,3.0
+aeronca,7 EC,0.0,2.0
+aeronca,7AC,0.12513736263736264,182.0
+aeronca,7AC CONV,0.0,1.0
+aeronca,7AC EC,0.0,1.0
+aeronca,7BC,0.0,1.0
+aeronca,7BCM,0.1318181818181818,33.0
+aeronca,7BCM (L 16A),0.6,1.0
+aeronca,7CCM,0.10769230769230768,13.0
+aeronca,7CCM 200,0.0,1.0
+aeronca,7DC,0.09666666666666666,15.0
+aeronca,7DC CONV,0.0,1.0
+aeronca,7EC,0.13478260869565217,46.0
+aeronca,7FC,0.10000000000000002,26.0
+aeronca,7JC,0.0,1.0
+aeronca,AC7B,0.2,1.0
+aeronca,AR 15,0.0,1.0
+aeronca,AR 58 058B,0.05,1.0
+aeronca,AR11,0.0,1.0
+aeronca,BL 7 AC,0.3,1.0
+aeronca,BL 7AC,0.3,1.0
+aeronca,BL7 AC,0.1,1.0
+aeronca,C 3,0.25,2.0
+aeronca,C3,0.3,1.0
+aeronca,CH 7A,0.2,1.0
+aeronca,CHAMP 7AC,0.0,1.0
+aeronca,CHAMPION,0.0,1.0
+aeronca,CHAMPION 7BCM,0.6,1.0
+aeronca,CHAMPION 7CCM,0.1,1.0
+aeronca,CHAMPION 7GCBC,0.0,1.0
+aeronca,CHIEF 65 CA,0.0,1.0
+aeronca,KCA,0.0,1.0
+aeronca,L 3B,0.0,2.0
+aeronca,L 3C,0.3,1.0
+aeronca,L16A,0.0,1.0
+aeronca,L3B,0.0,1.0
+aeronca,O 58B,0.24999999999999997,7.0
+aeronca,O 58C,0.44999999999999996,1.0
+aeronca,O58B,0.2,1.0
+aeronca,S 65 CA,0.6,1.0
+aeronca,S11AC,0.1,1.0
+aeronca,S15AC,0.0,2.0
+aeronca,S7CCM,0.1,1.0
+aeronca,S7EC,0.0,1.0
+aeronca,SEDAN 15AC,0.0,1.0
+aeronca,SEDAN AR 15,0.0,1.0
+aerospatiale,350 B1,0.6,1.0
+aerospatiale,350B,0.0,1.0
+aerospatiale,350D,0.49999999999999994,1.0
+aerospatiale,355,0.3,1.0
+aerospatiale,AS 332L,0.0,1.0
+aerospatiale,AS 350,0.05000000000000001,4.0
+aerospatiale,AS 350 B,0.03809523809523809,3.0
+aerospatiale,AS 350 B2,0.1013888888888889,3.0
+aerospatiale,AS 350 B3,0.1111111111111111,3.0
+aerospatiale,AS 350 BA,0.04000000000000001,2.0
+aerospatiale,AS 350B,0.2928571428571428,7.0
+aerospatiale,AS 350B 2,0.3,1.0
+aerospatiale,AS 350B1,0.54,1.0
+aerospatiale,AS 350B2,0.0,2.0
+aerospatiale,AS 350BA,0.175,4.0
+aerospatiale,AS 350BII,0.3,1.0
+aerospatiale,AS 350D,0.24571428571428572,5.0
+aerospatiale,AS 355,0.325,2.0
+aerospatiale,AS 355 F,0.0,1.0
+aerospatiale,AS 355 F1,0.0,2.0
+aerospatiale,AS 355F1,0.3,2.0
+aerospatiale,AS315B,0.1,1.0
+aerospatiale,AS350 B,0.0,1.0
+aerospatiale,AS350 B3,0.3583333333333334,2.0
+aerospatiale,AS350 BA,0.0,1.0
+aerospatiale,AS350 BH,0.0,1.0
+aerospatiale,AS350 D,0.0,1.0
+aerospatiale,AS350B,0.17238095238095238,11.0
+aerospatiale,AS350B3,0.0,2.0
+aerospatiale,AS350BA,0.1349206349206349,9.0
+aerospatiale,AS350D,0.18571428571428572,3.0
+aerospatiale,AS350D ASTAR,0.5249999999999999,1.0
+aerospatiale,AS355F1,0.037500000000000006,2.0
+aerospatiale,AS355F2,0.0,1.0
+aerospatiale,AS365N,0.0,1.0
+aerospatiale,ATR 42 300,0.0024489795918367346,5.0
+aerospatiale,ATR 42 320,0.04282852564102564,4.0
+aerospatiale,ATR 42 500,0.016216216216216217,1.0
+aerospatiale,ND 26,0.0,1.0
+aerospatiale,SA 315,0.13333333333333333,3.0
+aerospatiale,SA 315B,0.16166666666666668,4.0
+aerospatiale,SA 316B,0.6,1.0
+aerospatiale,SA 319B,0.049999999999999996,2.0
+aerospatiale,SA 341G,0.24,3.0
+aerospatiale,SA 365 N2,0.25,1.0
+aerospatiale,SA315B,0.16666666666666666,9.0
+aerospatiale,SA315B LAMA,0.1,1.0
+aerospatiale,SA316B,0.20178571428571426,6.0
+aerospatiale,SA318C,0.3,1.0
+aerospatiale,SA319B,0.0,2.0
+aerospatiale,SA319B ALOUETTE III,0.15,1.0
+aerospatiale,SA341G,0.03333333333333333,3.0
+aerospatiale,SA365 N1,0.19999999999999998,1.0
+aerospatiale,SN 601,0.0,1.0
+aerospatiale,TB 20,0.15,4.0
+aerospatiale,TB 21,0.49999999999999994,1.0
+aerospatiale,TB 9,0.44999999999999996,1.0
+aerospatiale,TB21,0.0,1.0
+air tractor,301,0.07777777777777778,9.0
+air tractor,301 300,0.0,1.0
+air tractor,301A,0.15,2.0
+air tractor,400,0.18,10.0
+air tractor,401,0.175,18.0
+air tractor,401 0860,0.0,1.0
+air tractor,401B,0.11875,4.0
+air tractor,402,0.10238095238095238,28.0
+air tractor,402A,0.10714285714285714,13.0
+air tractor,402B,0.195,55.0
+air tractor,502,0.09999999999999999,3.0
+air tractor,502A,0.3,2.0
+air tractor,502B,0.24444444444444446,9.0
+air tractor,AT 300,0.0,1.0
+air tractor,AT 301,0.10620689655172413,145.0
+air tractor,AT 301A,0.10000000000000002,8.0
+air tractor,AT 301B,0.3,1.0
+air tractor,AT 302,0.05,2.0
+air tractor,AT 400,0.1590909090909091,22.0
+air tractor,AT 400A,0.07777777777777779,9.0
+air tractor,AT 401,0.08701298701298701,77.0
+air tractor,AT 401 B,0.0,1.0
+air tractor,AT 401B,0.21666666666666667,6.0
+air tractor,AT 402,0.11363636363636365,22.0
+air tractor,AT 402A,0.18666666666666665,15.0
+air tractor,AT 402B,0.17368421052631577,19.0
+air tractor,AT 501,0.0,2.0
+air tractor,AT 502,0.14583333333333334,84.0
+air tractor,AT 502A,0.3125,8.0
+air tractor,AT 502B,0.10823529411764704,85.0
+air tractor,AT 503A,0.6,1.0
+air tractor,AT 504,0.0,1.0
+air tractor,AT 602,0.17720588235294116,68.0
+air tractor,AT 802,0.1357142857142857,14.0
+air tractor,AT 802 A,0.0,1.0
+air tractor,AT 802A,0.2243243243243243,37.0
+air tractor,AT 802F,0.0,1.0
+air tractor,AT301,0.0,7.0
+air tractor,AT301A,0.1,1.0
+air tractor,AT400,0.6,1.0
+air tractor,AT401,0.016666666666666666,6.0
+air tractor,AT401B,0.0,1.0
+air tractor,AT402,0.0,3.0
+air tractor,AT502,0.24166666666666667,24.0
+air tractor,AT502B,0.44999999999999996,2.0
+air tractor,AT503,0.3,1.0
+air tractor,AT602,0.19999999999999998,6.0
+air tractor,AT802,0.05555555555555555,9.0
+air tractor,G 164A,0.0721784776902887,254.0
+air tractor inc,AT,0.0,2.0
+air tractor inc,AT 301,0.10620689655172413,145.0
+air tractor inc,AT 301A,0.1,8.0
+air tractor inc,AT 400,0.1590909090909091,22.0
+air tractor inc,AT 400A,0.07777777777777778,9.0
+air tractor inc,AT 401,0.08701298701298701,77.0
+air tractor inc,AT 401B,0.21666666666666667,6.0
+air tractor inc,AT 402,0.11363636363636363,22.0
+air tractor inc,AT 402A,0.18666666666666665,15.0
+air tractor inc,AT 402B,0.17368421052631577,19.0
+air tractor inc,AT 502,0.14583333333333334,84.0
+air tractor inc,AT 502A,0.3125,8.0
+air tractor inc,AT 502B,0.10823529411764705,85.0
+air tractor inc,AT 602,0.17720588235294116,68.0
+air tractor inc,AT 802,0.1357142857142857,14.0
+air tractor inc,AT 802A,0.2243243243243243,37.0
+airbus,320,0.15740740740740738,18.0
+airbus,321,0.0,1.0
+airbus,A 300 600ER,0.0,1.0
+airbus,A 300B4 605R,0.019289340101522844,1.0
+airbus,A 319 114,0.00462937822427369,2.0
+airbus,A 320 200,0.0,1.0
+airbus,A 320 211,0.0,1.0
+airbus,A 320 231,0.0,1.0
+airbus,A300 600F,0.0,1.0
+airbus,A300 F4 622R,0.6,1.0
+airbus,A300B4 605R,0.31278195488721805,2.0
+airbus,A319 112,0.0,1.0
+airbus,A319 114,0.0,1.0
+airbus,A319 115,0.0,1.0
+airbus,A319 132,0.00510204081632653,1.0
+airbus,A320,0.005509007121910348,2.0
+airbus,A320 200,0.00196078431372549,1.0
+airbus,A320 211,0.0,1.0
+airbus,A320 214,0.0,1.0
+airbus,A320 231,0.007547169811320755,1.0
+airbus,A320 232,0.0,2.0
+airbus,A321,0.0,4.0
+airbus,A321 231,0.0,3.0
+airbus,A321 271N,0.0,2.0
+airbus,A330,0.0,2.0
+airbus,A330 223,0.0,1.0
+airbus,A330 323,0.0,2.0
+airbus,A340 300,0.009496124031007752,2.0
+airbus,A350,0.0,1.0
+airbus,A380,0.0,1.0
+airbus,AS 350,0.05,4.0
+airbus,AS 350 B3,0.1111111111111111,3.0
+airbus,AS 350 BA FX1,0.0,1.0
+airbus,AS 350B2,0.0,2.0
+airbus,AS 350B3,0.1,1.0
+airbus,AS350,0.17797619047619045,10.0
+airbus,AS350 B2,0.075,2.0
+airbus,AS350 B3,0.3583333333333334,2.0
+airbus,AS350 B3E,0.3,1.0
+airbus,AS350B3,0.0,2.0
+airbus,AS350B3E,0.43333333333333335,2.0
+airbus,EC 130,0.0,1.0
+airbus,EC 130 B4,0.6,1.0
+airbus,EC 130 T2,0.175,2.0
+airbus,EC130,0.1,1.0
+airbus,EC135,0.0,1.0
+airbus,F4 622R,0.0,1.0
+airbus,MBB BK 117 B 2,0.3,1.0
+aviat,A 1,0.11428571428571428,28.0
+aviat,A 1A,0.08499999999999999,10.0
+aviat,A 1B,0.07794117647058824,34.0
+aviat,A 1B HUSKY,0.0,1.0
+aviat,A 1C 180,0.15,2.0
+aviat,A 1C 200,0.15,4.0
+aviat,A1,0.1368421052631579,19.0
+aviat,A1 A,0.0,2.0
+aviat,A1 B,0.0,1.0
+aviat,A1A,0.0,1.0
+aviat,A1B,0.0,2.0
+aviat,CHRISTEN EAGLE II,0.6,1.0
+aviat,HUSKY,0.0,3.0
+aviat,HUSKY A 1,0.0,2.0
+aviat,HUSKY A 1B,0.0,1.0
+aviat,HUSKY A1 B,0.3,1.0
+aviat,PITTS S 1T,0.1,1.0
+aviat,PITTS S 2B,0.12999999999999998,10.0
+aviat,PITTS S 2C,0.1,1.0
+aviat,PITTS S2B,0.01,5.0
+aviat,PITTS S2R,0.03333333333333333,1.0
+aviat,S,0.0,1.0
+aviat,S 2C,0.3,2.0
+aviat,S1 11B,0.0,1.0
+aviat,S2,0.0,1.0
+aviat,S2B,0.0,1.0
+ayres,BULL THRUSH,0.0,1.0
+ayres,S 2R,0.12142857142857143,105.0
+ayres,S 2R T34,0.0,1.0
+ayres,S2 R,0.15,4.0
+ayres,S2R,0.09427083333333332,96.0
+ayres,S2R 134,0.0,1.0
+ayres,S2R 1820,0.0,1.0
+ayres,S2R 600,0.07777777777777779,9.0
+ayres,S2R G1,0.0,2.0
+ayres,S2R G10,0.045454545454545456,11.0
+ayres,S2R G5,0.0,1.0
+ayres,S2R G6,0.05384615384615384,13.0
+ayres,S2R R1340,0.3,2.0
+ayres,S2R R1820,0.3,1.0
+ayres,S2R T 34,0.0,1.0
+ayres,S2R T11,0.15,2.0
+ayres,S2R T15,0.29999999999999993,7.0
+ayres,S2R T34,0.17777777777777776,36.0
+ayres,S2R T34AG,0.3,1.0
+ayres,S2R T41,0.0,1.0
+ayres,S2R T45,0.35,2.0
+ayres,S2R T65,0.0,1.0
+ayres,S2R T660,0.1,1.0
+ayres,S2R600,0.0,1.0
+ayres,S2RT 34RE,0.0,1.0
+ayres,S2RT T34,0.3,1.0
+ayres,S2RT34,0.44999999999999996,1.0
+ayres,S2T T65,0.1,1.0
+ayres,SR2,0.3,1.0
+ayres,SR2 T34,0.0,2.0
+beechcraft,100,0.14595959595959596,33.0
+beechcraft,17,0.0,1.0
+beechcraft,18,0.0,4.0
+beechcraft,18 C45G,0.0,1.0
+beechcraft,18S,0.05,1.0
+beechcraft,18T,0.6,1.0
+beechcraft,19,0.007142857142857143,14.0
+beechcraft,1900,0.10217391304347827,6.0
+beechcraft,1900C,0.2507142857142857,21.0
+beechcraft,1900D,0.04899435531788473,26.0
+beechcraft,19A,0.19285714285714284,14.0
+beechcraft,19B,0.0,1.0
+beechcraft,200,0.1648941798941799,45.0
+beechcraft,23,0.12445355191256831,61.0
+beechcraft,23 A24R,0.0,1.0
+beechcraft,23 B24R,0.15,2.0
+beechcraft,23 C23,0.05,2.0
+beechcraft,23A,0.15000000000000002,1.0
+beechcraft,23A 19,0.0,1.0
+beechcraft,23C,0.0,1.0
+beechcraft,24,0.07777777777777777,3.0
+beechcraft,24R,0.35,4.0
+beechcraft,300,0.2333333333333333,6.0
+beechcraft,300/F,0.6,1.0
+beechcraft,33,0.1606060606060606,11.0
+beechcraft,33 A,0.0,1.0
+beechcraft,33 F33A,0.175,2.0
+beechcraft,33A,0.1,1.0
+beechcraft,35,0.15255681818181818,88.0
+beechcraft,35 33,0.29230769230769227,13.0
+beechcraft,35 A33,0.13749999999999998,16.0
+beechcraft,35 B33,0.24166666666666667,22.0
+beechcraft,35 C33,0.2021739130434783,23.0
+beechcraft,35 C33A,0.205,10.0
+beechcraft,35 P35,0.6,1.0
+beechcraft,35 UNDESIGNAT,0.0,1.0
+beechcraft,35/33,0.6,1.0
+beechcraft,350,0.0,2.0
+beechcraft,35A,0.3,2.0
+beechcraft,35A33,0.35,1.0
+beechcraft,35B33,0.2333333333333333,3.0
+beechcraft,35C33,0.5249999999999999,2.0
+beechcraft,35F,0.6,1.0
+beechcraft,35J,0.0,1.0
+beechcraft,35N,0.0,1.0
+beechcraft,36,0.163125,40.0
+beechcraft,36TC,0.19999999999999998,3.0
+beechcraft,390,0.15119047619047618,6.0
+beechcraft,3NM,0.3,3.0
+beechcraft,400,0.18,10.0
+beechcraft,400A,0.05,4.0
+beechcraft,50,0.0,1.0
+beechcraft,55,0.13333333333333333,24.0
+beechcraft,55 95B55B,0.05,1.0
+beechcraft,55 E55,0.6,1.0
+beechcraft,55B,0.0,2.0
+beechcraft,56,0.0,1.0
+beechcraft,56TC,0.19999999999999998,3.0
+beechcraft,58,0.24954225352112677,142.0
+beechcraft,58 FOXSTAR,0.6,1.0
+beechcraft,58 TC,0.6,1.0
+beechcraft,58P,0.2575378787878788,44.0
+beechcraft,58TC,0.35303030303030297,11.0
+beechcraft,60,0.32564102564102565,13.0
+beechcraft,65,0.28214285714285714,14.0
+beechcraft,65 80,0.0,1.0
+beechcraft,65 88,0.0,1.0
+beechcraft,65 90,0.23214285714285712,3.0
+beechcraft,65 A80,0.0,1.0
+beechcraft,65 A90,0.15414141414141413,18.0
+beechcraft,65 A90 1,0.3499999999999999,3.0
+beechcraft,65 B80,0.2,8.0
+beechcraft,70,0.0,1.0
+beechcraft,76,0.12788461538461537,52.0
+beechcraft,77,0.1388888888888889,36.0
+beechcraft,80,0.1,1.0
+beechcraft,90,0.0,2.0
+beechcraft,95,0.22789855072463766,23.0
+beechcraft,95 55,0.2583333333333333,12.0
+beechcraft,95 A55,0.28055555555555556,18.0
+beechcraft,95 B55,0.3215686274509804,68.0
+beechcraft,95 B55 (T4,0.6,1.0
+beechcraft,95 B55 (T42A),0.24285714285714283,21.0
+beechcraft,95 B55B,0.34285714285714286,7.0
+beechcraft,95 B55B (T42A),0.0,1.0
+beechcraft,95 B95,0.6,1.0
+beechcraft,95 BE55,0.6,1.0
+beechcraft,95 C 55,0.0,1.0
+beechcraft,95 C55,0.23703703703703702,27.0
+beechcraft,95B55,0.27619047619047615,7.0
+beechcraft,99,0.008398744113029826,14.0
+beechcraft,99 C99,0.0,1.0
+beechcraft,99A,0.0,2.0
+beechcraft,99C,0.05,1.0
+beechcraft,A 23,0.0,2.0
+beechcraft,A 23 19,0.15,2.0
+beechcraft,A 23 23,0.0,1.0
+beechcraft,A 24 R,0.0,1.0
+beechcraft,A 35,0.03333333333333333,3.0
+beechcraft,A 36,0.3125992063492063,28.0
+beechcraft,A 36 TC,0.0,1.0
+beechcraft,A 36TC,0.3333333333333333,3.0
+beechcraft,A 45/T 34A,0.44999999999999996,1.0
+beechcraft,A 90,0.6,1.0
+beechcraft,A100,0.2296383647798742,12.0
+beechcraft,A200,0.00625,4.0
+beechcraft,A23,0.1775,40.0
+beechcraft,A23 19,0.1259259259259259,9.0
+beechcraft,A23 24,0.10400000000000001,25.0
+beechcraft,A23A,0.1769230769230769,13.0
+beechcraft,A24,0.25,4.0
+beechcraft,A24 R,0.6,1.0
+beechcraft,A24R,0.27222222222222225,9.0
+beechcraft,A33,0.0,1.0
+beechcraft,A33 35,0.375,1.0
+beechcraft,A35,0.1711111111111111,30.0
+beechcraft,A36,0.22911699779249448,302.0
+beechcraft,A36 UNDESIGNAT,0.0,1.0
+beechcraft,A36TC,0.2845238095238095,49.0
+beechcraft,A45,0.2833333333333333,9.0
+beechcraft,A55,0.0,1.0
+beechcraft,A60,0.36428571428571427,7.0
+beechcraft,A90,0.2333333333333333,3.0
+beechcraft,AT11/18,0.6,1.0
+beechcraft,B,0.3,1.0
+beechcraft,B 18H,0.0,1.0
+beechcraft,B 19,0.06666666666666667,6.0
+beechcraft,B 23,0.15,2.0
+beechcraft,B 24 R,0.0,1.0
+beechcraft,B 33,0.0,1.0
+beechcraft,B 35,0.0,2.0
+beechcraft,B 55,0.12333333333333334,10.0
+beechcraft,B 58,0.35,1.0
+beechcraft,B 60,0.21428571428571427,14.0
+beechcraft,B 90,0.6,1.0
+beechcraft,B 95,0.6,1.0
+beechcraft,B 99,0.03333333333333333,3.0
+beechcraft,B100,0.25,12.0
+beechcraft,B19,0.05787037037037038,36.0
+beechcraft,B200,0.13176470588235295,17.0
+beechcraft,B200GT,0.6,1.0
+beechcraft,B23,0.07794117647058824,17.0
+beechcraft,B24,0.0,1.0
+beechcraft,B24R,0.22647058823529412,17.0
+beechcraft,B300,0.0,2.0
+beechcraft,B33,0.2,1.0
+beechcraft,B33 35,0.0,1.0
+beechcraft,B35,0.07631578947368421,19.0
+beechcraft,B35 C33A,0.6,1.0
+beechcraft,B36,0.3,2.0
+beechcraft,B36TC,0.2686111111111111,42.0
+beechcraft,B50,0.0,1.0
+beechcraft,B55,0.09999999999999999,6.0
+beechcraft,B55B,0.016666666666666666,3.0
+beechcraft,B60,0.3,8.0
+beechcraft,B65,0.11666666666666667,1.0
+beechcraft,B90,0.15947496947496947,15.0
+beechcraft,B95,0.35,10.0
+beechcraft,B95 B55,0.0,1.0
+beechcraft,B95A,0.475,4.0
+beechcraft,B99,0.0,1.0
+beechcraft,BARON 58,0.0,1.0
+beechcraft,BE 100,0.0,1.0
+beechcraft,BE 100 A100,0.0,1.0
+beechcraft,BE 18,0.0125,2.0
+beechcraft,BE 19,0.06666666666666667,3.0
+beechcraft,BE 19A,0.6,1.0
+beechcraft,BE 200,0.16666666666666666,8.0
+beechcraft,BE 23,0.10357142857142856,14.0
+beechcraft,BE 23 24,0.5249999999999999,1.0
+beechcraft,BE 23 A24R,0.0,1.0
+beechcraft,BE 23 B24R,0.0,2.0
+beechcraft,BE 24,0.0,1.0
+beechcraft,BE 24R,0.016666666666666666,2.0
+beechcraft,BE 300,0.13333333333333333,3.0
+beechcraft,BE 33A,0.05,1.0
+beechcraft,BE 35,0.19555555555555554,15.0
+beechcraft,BE 35 33,0.2,1.0
+beechcraft,BE 35 C33A,0.0,1.0
+beechcraft,BE 35 F35,0.6,1.0
+beechcraft,BE 35 J35,0.6,1.0
+beechcraft,BE 35C,0.0,1.0
+beechcraft,BE 35K,0.1,1.0
+beechcraft,BE 35M,0.0,1.0
+beechcraft,BE 35V,0.2,1.0
+beechcraft,BE 36,0.18,5.0
+beechcraft,BE 36A,0.6,1.0
+beechcraft,BE 36TC,0.05,1.0
+beechcraft,BE 45 T 34B,0.2,1.0
+beechcraft,BE 50,0.0,1.0
+beechcraft,BE 55,0.24545454545454543,11.0
+beechcraft,BE 55 (T42A),0.0,1.0
+beechcraft,BE 55 D55,0.44999999999999996,1.0
+beechcraft,BE 55 T42A,0.3,2.0
+beechcraft,BE 55B,0.0,2.0
+beechcraft,BE 56TC,0.15,2.0
+beechcraft,BE 58,0.29411764705882354,17.0
+beechcraft,BE 58P,0.1,1.0
+beechcraft,BE 60,0.39999999999999997,3.0
+beechcraft,BE 65 (LF 23F),0.3,1.0
+beechcraft,BE 65 80,0.14,1.0
+beechcraft,BE 65 A90,0.6,1.0
+beechcraft,BE 76,0.2076923076923077,13.0
+beechcraft,BE 77,0.06000000000000001,5.0
+beechcraft,BE 90,0.26249999999999996,2.0
+beechcraft,BE 90 E90,0.0,1.0
+beechcraft,BE 95,0.0125,2.0
+beechcraft,BE 95 A55,0.0,2.0
+beechcraft,BE 95 B55,0.6,2.0
+beechcraft,BE 95A,0.44999999999999996,2.0
+beechcraft,BE 99,0.3,2.0
+beechcraft,BE A23 19,0.6,1.0
+beechcraft,BE A35,0.0,1.0
+beechcraft,BE A36,0.0,1.0
+beechcraft,BE A55,0.6,1.0
+beechcraft,BE C 45H,0.0,1.0
+beechcraft,BE C23,0.2,1.0
+beechcraft,BE D35,0.44999999999999996,1.0
+beechcraft,BE G35,0.0,1.0
+beechcraft,BE N35,0.0,1.0
+beechcraft,BE P35,0.6,1.0
+beechcraft,BE S35,0.35,1.0
+beechcraft,BE V35B,0.025,2.0
+beechcraft,BE19,0.0,1.0
+beechcraft,BE23,0.0,4.0
+beechcraft,BE24,0.1,1.0
+beechcraft,BE33,0.0,1.0
+beechcraft,BE35,0.16666666666666666,3.0
+beechcraft,BE36,0.0,2.0
+beechcraft,BE58,0.0,1.0
+beechcraft,BE58P,0.6,1.0
+beechcraft,BE60,0.6,1.0
+beechcraft,BE76,0.03333333333333333,3.0
+beechcraft,BE77,0.05,2.0
+beechcraft,BE90,0.0,2.0
+beechcraft,BE95 A 55,0.6,1.0
+beechcraft,BE99,0.025,2.0
+beechcraft,BH 125 600A,0.0,1.0
+beechcraft,C 12C,0.0,1.0
+beechcraft,C 18S,0.44999999999999996,1.0
+beechcraft,C 23,0.06470588235294118,17.0
+beechcraft,C 24R,0.025,4.0
+beechcraft,C 35,0.125,1.0
+beechcraft,C 45G,0.32499999999999996,4.0
+beechcraft,C 45H,0.1788961038961039,14.0
+beechcraft,C 50,0.0,3.0
+beechcraft,C 90,0.34285714285714286,7.0
+beechcraft,C 99,0.06666666666666667,9.0
+beechcraft,C17B,0.0,1.0
+beechcraft,C18S,0.6,1.0
+beechcraft,C23,0.16152173913043477,115.0
+beechcraft,C23 SUNDOWNER,0.0,1.0
+beechcraft,C24,0.13666666666666666,5.0
+beechcraft,C24R,0.1794871794871795,39.0
+beechcraft,C33A,0.3,2.0
+beechcraft,C35,0.24125000000000002,40.0
+beechcraft,C45H,0.0,1.0
+beechcraft,C50,0.05,1.0
+beechcraft,C55,0.0,1.0
+beechcraft,C90,0.20479999999999998,25.0
+beechcraft,C90 1,0.0,1.0
+beechcraft,C90 A,0.2333333333333333,1.0
+beechcraft,C90A,0.003333333333333333,10.0
+beechcraft,C90B,0.2,1.0
+beechcraft,C99,0.3559375,8.0
+beechcraft,D 18H,0.0,1.0
+beechcraft,D 35,0.39999999999999997,3.0
+beechcraft,D 45,0.3,7.0
+beechcraft,D 45 (T 34B),0.0,1.0
+beechcraft,D 50,0.0,1.0
+beechcraft,D 50E,0.6,1.0
+beechcraft,D 55,0.3,1.0
+beechcraft,D 95A,0.05,1.0
+beechcraft,D 95A TRAVELAIR,0.6,1.0
+beechcraft,D17,0.22499999999999998,2.0
+beechcraft,D17R,0.0,1.0
+beechcraft,D17S,0.057692307692307696,13.0
+beechcraft,D18 S,0.0,1.0
+beechcraft,D18S,0.026666666666666665,10.0
+beechcraft,D35,0.18666666666666668,20.0
+beechcraft,D45,0.35,2.0
+beechcraft,D50,0.44999999999999996,1.0
+beechcraft,D50A,0.3,2.0
+beechcraft,D50C,0.2722222222222222,3.0
+beechcraft,D50E,0.03333333333333333,3.0
+beechcraft,D55,0.28615384615384615,13.0
+beechcraft,D95,0.175,2.0
+beechcraft,D95A,0.22307692307692306,13.0
+beechcraft,E 18,0.0,2.0
+beechcraft,E 18S,0.6,2.0
+beechcraft,E 33,0.3333333333333333,1.0
+beechcraft,E 33C,0.0,1.0
+beechcraft,E 35,0.0,2.0
+beechcraft,E 55,0.1831578947368421,19.0
+beechcraft,E 90,0.28125,13.0
+beechcraft,E17B,0.15,1.0
+beechcraft,E17L,0.0,1.0
+beechcraft,E185,0.0,1.0
+beechcraft,E18F,0.0,1.0
+beechcraft,E18S,0.271875,24.0
+beechcraft,E18S 9700,0.0,1.0
+beechcraft,E33,0.3,4.0
+beechcraft,E33A,0.06666666666666667,6.0
+beechcraft,E35,0.19019607843137254,17.0
+beechcraft,E50,0.14444444444444443,1.0
+beechcraft,E55,0.2714285714285714,7.0
+beechcraft,E90,0.4148148148148148,9.0
+beechcraft,E90B,0.6,1.0
+beechcraft,E95,0.6,1.0
+beechcraft,E95A,0.6,1.0
+beechcraft,F 33A,0.25749999999999995,10.0
+beechcraft,F 35,0.2333333333333333,6.0
+beechcraft,F 90,0.09999999999999999,3.0
+beechcraft,F.33A,0.6,1.0
+beechcraft,F.35,0.6,1.0
+beechcraft,F17D,0.0,1.0
+beechcraft,F33,0.2571428571428571,14.0
+beechcraft,F33/G,0.0,1.0
+beechcraft,F33A,0.2144814814814815,90.0
+beechcraft,F33C,0.3,1.0
+beechcraft,F35,0.22954545454545452,22.0
+beechcraft,F90,0.0,8.0
+beechcraft,F90 42,0.6,1.0
+beechcraft,G 18S,0.0,1.0
+beechcraft,G 35,0.6,1.0
+beechcraft,G 36,0.15,2.0
+beechcraft,G18,0.15,2.0
+beechcraft,G18 S,0.046153846153846156,1.0
+beechcraft,G18S,0.0625,8.0
+beechcraft,G33,0.2333333333333333,3.0
+beechcraft,G35,0.22416666666666668,40.0
+beechcraft,G36,0.125,8.0
+beechcraft,G58,0.24,5.0
+beechcraft,H 18,0.35000000000000003,6.0
+beechcraft,H 18S,0.0,1.0
+beechcraft,H 35,0.375,4.0
+beechcraft,H18,0.1,1.0
+beechcraft,H35,0.1338709677419355,31.0
+beechcraft,H50,0.3071428571428571,2.0
+beechcraft,HAWKER 900XP,0.0,1.0
+beechcraft,J 35,0.3,5.0
+beechcraft,J35,0.24579710144927536,23.0
+beechcraft,K 35,0.35,2.0
+beechcraft,K35,0.19885416666666667,32.0
+beechcraft,KING AIR 100,0.6,1.0
+beechcraft,KING AIR B90,0.6,1.0
+beechcraft,M35,0.1712121212121212,22.0
+beechcraft,MUSKETEER 23,0.1,1.0
+beechcraft,N 35,0.0,1.0
+beechcraft,N35,0.16825396825396824,21.0
+beechcraft,P 35,0.11666666666666665,6.0
+beechcraft,P 35 BONANZA,0.0,1.0
+beechcraft,P35,0.2814102564102564,26.0
+beechcraft,RC 45J,0.0,1.0
+beechcraft,S 35,0.35000000000000003,7.0
+beechcraft,S35,0.290354609929078,47.0
+beechcraft,SIERRA,0.0,1.0
+beechcraft,T 34,0.3,1.0
+beechcraft,T 34 (A 45),0.3,1.0
+beechcraft,T 34A,0.3,4.0
+beechcraft,T 34B,0.24,5.0
+beechcraft,T 34B/D 45,0.0,1.0
+beechcraft,T 34C,0.6,1.0
+beechcraft,T34,0.0,1.0
+beechcraft,T34B,0.6,1.0
+beechcraft,TC 45J,0.35,1.0
+beechcraft,U 8F,0.3,1.0
+beechcraft,U35B,0.3,1.0
+beechcraft,UC 45J,0.0,2.0
+beechcraft,UC45J,0.0,1.0
+beechcraft,V 35,0.35555555555555557,3.0
+beechcraft,V 35 A,0.1,1.0
+beechcraft,V 35A,0.39999999999999997,3.0
+beechcraft,V 35B,0.0,1.0
+beechcraft,V35,0.2571428571428571,49.0
+beechcraft,V35 B,0.6,1.0
+beechcraft,V35A,0.2602272727272727,22.0
+beechcraft,V35A TC,0.0,2.0
+beechcraft,V35B,0.2382154882154882,99.0
+beechcraft,V35E,0.1,1.0
+beechcraft,V35TC,0.6,1.0
+boeing,107 11,0.1,1.0
+boeing,1942,0.0,1.0
+boeing,1B75A,0.0,1.0
+boeing,369D,0.12477678571428572,112.0
+boeing,369E,0.12216145833333333,64.0
+boeing,707 321B,0.37784810126582274,3.0
+boeing,707 323C,0.0,1.0
+boeing,707 324C,0.0,1.0
+boeing,717 200,0.004302925989672978,7.0
+boeing,727,0.030458221024258755,3.0
+boeing,727 100,0.024999999999999998,2.0
+boeing,727 100QC,0.0,1.0
+boeing,727 200,0.007246376811594204,4.0
+boeing,727 212,0.011855670103092783,1.0
+boeing,727 214,0.0,1.0
+boeing,727 223,0.010730577334283679,2.0
+boeing,727 224,0.0,2.0
+boeing,727 225,0.0,1.0
+boeing,727 227,0.0058302808302808295,3.0
+boeing,727 230,0.0,1.0
+boeing,727 232,0.09999999999999999,3.0
+boeing,727 233,0.0,2.0
+boeing,727 247,0.0019230769230769232,1.0
+boeing,727 251,0.02929292929292929,2.0
+boeing,727 264,0.0,2.0
+boeing,727 2M7,0.0,1.0
+boeing,727 2S2F,0.075,1.0
+boeing,727 51C,0.125,1.0
+boeing,737,0.0005846612403989453,12.0
+boeing,737 200,0.004473190851143607,4.0
+boeing,737 222,0.007407407407407408,1.0
+boeing,737 232,0.0,1.0
+boeing,737 247,0.0,1.0
+boeing,737 275C,0.2,1.0
+boeing,737 291,0.3105882352941176,2.0
+boeing,737 2X6C,0.15000000000000002,1.0
+boeing,737 300,0.0437769070979223,7.0
+boeing,737 301,0.0,1.0
+boeing,737 322,0.004455506391347099,4.0
+boeing,737 330,0.0,1.0
+boeing,737 3A4,0.0,2.0
+boeing,737 3G7,0.0016949152542372883,1.0
+boeing,737 3H4,0.0,4.0
+boeing,737 400,0.0,2.0
+boeing,737 49R,0.0,2.0
+boeing,737 4Q8,0.0,1.0
+boeing,737 524,0.058586956521739134,2.0
+boeing,737 700,0.013888888888888888,2.0
+boeing,737 724,0.0013513513513513514,1.0
+boeing,737 72T,0.0,1.0
+boeing,737 732,0.0,2.0
+boeing,737 7H4,0.03266272504527538,9.0
+boeing,737 800,0.0,1.0
+boeing,737 823,0.0,2.0
+boeing,737 824,0.0,2.0
+boeing,737 832,0.0,2.0
+boeing,737 8H4,0.0,1.0
+boeing,747,0.009669211195928753,3.0
+boeing,747 121,0.0,2.0
+boeing,747 128,0.0,1.0
+boeing,747 131,0.6,1.0
+boeing,747 132,0.0,1.0
+boeing,747 136,0.0057692307692307696,1.0
+boeing,747 200,0.0005882352941176471,1.0
+boeing,747 212B,0.0,1.0
+boeing,747 228F,0.0,1.0
+boeing,747 230,0.0,1.0
+boeing,747 238,0.0,1.0
+boeing,747 238B,0.0,1.0
+boeing,747 243B,0.0,1.0
+boeing,747 256,0.010621761658031088,1.0
+boeing,747 259B,0.0,1.0
+boeing,747 269B,0.0,1.0
+boeing,747 300,0.5692913385826771,1.0
+boeing,747 368,0.0,1.0
+boeing,747 400,0.004080000000000001,5.0
+boeing,747 422,0.0,1.0
+boeing,747 4B5F,0.0,1.0
+boeing,747 4F6B,0.0,1.0
+boeing,747 SP,0.0,1.0
+boeing,75,0.0,1.0
+boeing,757,0.0,6.0
+boeing,757 200,0.0,1.0
+boeing,757 222,0.0,5.0
+boeing,757 223,0.0,3.0
+boeing,757 224,0.0,1.0
+boeing,757 232,0.0,5.0
+boeing,757 24APF,0.0,1.0
+boeing,757 251,0.05625000000000001,2.0
+boeing,757 2G7,0.0,1.0
+boeing,757 33N,0.0,2.0
+boeing,757 351,0.0,1.0
+boeing,75N1,0.1,1.0
+boeing,767,0.11431372549019608,6.0
+boeing,767 200ER,0.39999999999999997,3.0
+boeing,767 223,0.0,1.0
+boeing,767 300,0.0,3.0
+boeing,767 323ER,0.013392857142857144,1.0
+boeing,767 332ER,0.0,1.0
+boeing,767 34AF,0.0,2.0
+boeing,767 375,0.0,1.0
+boeing,777 200,0.0,1.0
+boeing,777 200ER,0.15602605863192182,1.0
+boeing,777 222,0.0005681818181818182,2.0
+boeing,777 22B,0.0,1.0
+boeing,777 236,0.02222222222222222,1.0
+boeing,777 281,0.0,1.0
+boeing,A 75,0.008333333333333333,6.0
+boeing,A 75 N1 (STEARMAN),0.0,1.0
+boeing,A 75N1,0.3,7.0
+boeing,A75,0.175,16.0
+boeing,A75 L3,0.0,1.0
+boeing,A75 N1,0.0,1.0
+boeing,A75L3,0.21666666666666665,5.0
+boeing,A75L300,0.025,4.0
+boeing,A75N,0.1,1.0
+boeing,A75N (PT 17),0.0,1.0
+boeing,A75N (PT17),0.1,1.0
+boeing,A75N 1,0.0,1.0
+boeing,A75N1,0.07651515151515151,66.0
+boeing,A75N1 (PT 17),0.0,1.0
+boeing,A75N1 (PT17),0.07222222222222222,9.0
+boeing,A75N1(PT17),0.07586206896551725,29.0
+boeing,A75SN1,0.1,1.0
+boeing,B 17G,0.021428571428571425,2.0
+boeing,B 737 300,0.6,1.0
+boeing,B 737 832,0.0,1.0
+boeing,B 75,0.0,2.0
+boeing,B17,0.4923076923076923,2.0
+boeing,B737 300,0.0,1.0
+boeing,B747 433BCF,0.0,1.0
+boeing,B75,0.0,3.0
+boeing,B75 A75N1,0.0,2.0
+boeing,B75 N1,0.02,5.0
+boeing,B757 232,0.0,1.0
+boeing,B75N1,0.07727272727272727,44.0
+boeing,BOEING 777 236,0.03411764705882353,1.0
+boeing,BV 107 II,0.6,1.0
+boeing,BV234,0.0,1.0
+boeing,CH 47D,0.12,1.0
+boeing,D75 N1,0.1,1.0
+boeing,D75N1,0.025,8.0
+boeing,DC 10,0.01888888888888889,1.0
+boeing,DHC 6 300,0.009090909090909092,11.0
+boeing,DHC 8 102,0.0030769230769230765,5.0
+boeing,E75,0.017241379310344827,29.0
+boeing,E75 N1,0.0,1.0
+boeing,E75L300,0.3,1.0
+boeing,E75N1,0.1111111111111111,9.0
+boeing,E75NL,0.0,1.0
+boeing,H500D,0.0,1.0
+boeing,HU 369 OH6A,0.1,1.0
+boeing,IB75A,0.6,1.0
+boeing,MD 10 10F,0.009523809523809523,3.0
+boeing,MD 11,0.027944177671068427,8.0
+boeing,MD600N,0.0,2.0
+boeing,N2S 3,0.35,2.0
+boeing,N2S 4,0.6,1.0
+boeing,PT 13,0.0,2.0
+boeing,PT 13B,0.0,1.0
+boeing,PT 13D,0.0,1.0
+boeing,PT 17,0.17954545454545454,11.0
+boeing,PT 17 STEARMAN,0.3,2.0
+boeing,PT 17A75N1,0.0,1.0
+boeing,PT 27,0.05,1.0
+boeing,PT17,0.075,4.0
+boeing,S 307,0.0,1.0
+boeing,STEARMAN PT 17,0.6,1.0
+cessna,0 1A,0.0,1.0
+cessna,120,0.07982456140350877,114.0
+cessna,140,0.08315602836879432,282.0
+cessna,140A,0.06739130434782607,23.0
+cessna,150,0.10164334526521315,439.0
+cessna,150 F,0.35,2.0
+cessna,150 G,0.19999999999999998,3.0
+cessna,150 II,0.1,1.0
+cessna,150 L,0.3,2.0
+cessna,150A,0.10909090909090909,11.0
+cessna,150B,0.11818181818181818,11.0
+cessna,150C,0.075,20.0
+cessna,150D,0.10483870967741936,31.0
+cessna,150E,0.12681818181818183,44.0
+cessna,150F,0.1402439024390244,164.0
+cessna,150G,0.1409090909090909,154.0
+cessna,150H,0.1360730593607306,146.0
+cessna,150J,0.14813432835820894,134.0
+cessna,150K,0.11574074074074074,54.0
+cessna,150L,0.1535845588235294,272.0
+cessna,150M,0.09496043315285298,343.0
+cessna,152,0.08560303514376996,1252.0
+cessna,152 II,0.05,10.0
+cessna,152A,0.0,1.0
+cessna,152G,0.0,1.0
+cessna,152II,0.15,2.0
+cessna,152K,0.15,1.0
+cessna,152L,0.0,1.0
+cessna,152M,0.3,1.0
+cessna,152TW,0.0,1.0
+cessna,152U,0.0,3.0
+cessna,15OF,0.0,1.0
+cessna,162,0.12272727272727274,22.0
+cessna,170,0.06881944444444445,120.0
+cessna,170 B,0.0375,4.0
+cessna,170A,0.09868421052631579,95.0
+cessna,170B,0.06612578616352201,265.0
+cessna,172,0.08986237144585602,1102.0
+cessna,172 A,0.1,1.0
+cessna,172 B,0.05,1.0
+cessna,172 E,0.0,1.0
+cessna,172 F,0.19999999999999998,3.0
+cessna,172 H,0.3,2.0
+cessna,172 K,0.0,2.0
+cessna,172 M,0.06666666666666667,6.0
+cessna,172 N,0.016666666666666666,6.0
+cessna,172 P,0.075,5.0
+cessna,172 R,0.0,3.0
+cessna,172 RG,0.0,5.0
+cessna,172 S,0.0,4.0
+cessna,172 SKYHAWK,0.1,1.0
+cessna,172 SP,0.0,3.0
+cessna,172A,0.09880952380952382,42.0
+cessna,172B,0.10555555555555554,51.0
+cessna,172C,0.17952380952380953,35.0
+cessna,172D,0.13529411764705881,51.0
+cessna,172E,0.11581920903954802,59.0
+cessna,172F,0.12848837209302325,86.0
+cessna,172G,0.09990421455938697,87.0
+cessna,172H,0.1323768115942029,115.0
+cessna,172I,0.12207207207207207,37.0
+cessna,172J,0.0,2.0
+cessna,172K,0.12559139784946236,155.0
+cessna,172L,0.10900297619047618,112.0
+cessna,172M,0.12231910946196659,539.0
+cessna,172N,0.1187010752688172,775.0
+cessna,172N II,0.0,1.0
+cessna,172P,0.10827239427239428,455.0
+cessna,172Q,0.05555555555555555,6.0
+cessna,172R,0.06858178053830227,161.0
+cessna,172RG,0.10851449275362318,161.0
+cessna,172RG/A,0.1,1.0
+cessna,172S,0.08333333333333333,352.0
+cessna,172SP,0.05111111111111111,15.0
+cessna,172XP,0.061538461538461535,13.0
+cessna,175,0.13316831683168315,101.0
+cessna,175 235,0.0,1.0
+cessna,175A,0.125,25.0
+cessna,175B,0.1671875,16.0
+cessna,175C,0.3499999999999999,3.0
+cessna,177,0.12137096774193548,186.0
+cessna,177 A,0.44999999999999996,1.0
+cessna,177 RG,0.19999999999999998,4.0
+cessna,177A,0.11413043478260869,23.0
+cessna,177B,0.14927184466019416,103.0
+cessna,177BII,0.0,1.0
+cessna,177RG,0.14501190476190476,140.0
+cessna,180,0.053314350797266506,439.0
+cessna,180 A,0.0,3.0
+cessna,180 B,0.0,2.0
+cessna,180 H,0.0,1.0
+cessna,180A,0.0475,40.0
+cessna,180B,0.17149999999999999,20.0
+cessna,180C,0.012500000000000002,12.0
+cessna,180D,0.08076923076923076,13.0
+cessna,180E,0.1285714285714286,7.0
+cessna,180F,0.18636363636363634,11.0
+cessna,180G,0.041666666666666664,12.0
+cessna,180H,0.04552238805970149,67.0
+cessna,180J,0.05272727272727273,55.0
+cessna,180K,0.0669753086419753,54.0
+cessna,180L,0.0,1.0
+cessna,180M,0.0,1.0
+cessna,180R,0.0,1.0
+cessna,182,0.10488448844884489,404.0
+cessna,182 D,0.0,2.0
+cessna,182 E,0.0,2.0
+cessna,182 K,0.07500000000000001,2.0
+cessna,182 P,0.3,2.0
+cessna,182 Q,0.0,1.0
+cessna,182 RG,0.0,1.0
+cessna,182A,0.10229629629629629,135.0
+cessna,182B,0.1297222222222222,60.0
+cessna,182BTW,0.0,1.0
+cessna,182C,0.1769607843137255,51.0
+cessna,182D,0.17770833333333333,40.0
+cessna,182E,0.1662037037037037,54.0
+cessna,182F,0.13548780487804876,41.0
+cessna,182G,0.2091358024691358,54.0
+cessna,182G 460,0.0,1.0
+cessna,182H,0.12976190476190477,49.0
+cessna,182J,0.11121794871794871,52.0
+cessna,182K,0.1180188679245283,53.0
+cessna,182L,0.12782512626262627,48.0
+cessna,182M,0.14431818181818182,44.0
+cessna,182N,0.12333333333333332,45.0
+cessna,182P,0.1735095447870778,227.0
+cessna,182Q,0.1604553734061931,183.0
+cessna,182R,0.20416666666666666,72.0
+cessna,182RG,0.07944444444444444,30.0
+cessna,182S,0.1270408163265306,49.0
+cessna,182T,0.11347517730496454,47.0
+cessna,182TR,0.0375,2.0
+cessna,182U,0.0,2.0
+cessna,185,0.05333000665335994,167.0
+cessna,185 A,0.0,1.0
+cessna,185 E,0.0,1.0
+cessna,185 F,0.0,1.0
+cessna,185A,0.12916666666666665,12.0
+cessna,185B,0.10555555555555556,6.0
+cessna,185C,0.09999999999999999,6.0
+cessna,185D,0.0,2.0
+cessna,185E,0.05185185185185185,27.0
+cessna,185F,0.05176767676767677,66.0
+cessna,188,0.106,50.0
+cessna,188 230,0.0,1.0
+cessna,188 UNDESIGNAT,0.0,1.0
+cessna,188/B,0.0,1.0
+cessna,188A,0.09166666666666667,12.0
+cessna,188B,0.08043478260869565,46.0
+cessna,188D,0.0,1.0
+cessna,188T,0.0,2.0
+cessna,190,0.07857142857142856,14.0
+cessna,195,0.08885135135135136,74.0
+cessna,195 B,0.0,1.0
+cessna,195A,0.076,25.0
+cessna,195B,0.07058823529411765,17.0
+cessna,205,0.24436974789915963,17.0
+cessna,205A,0.016666666666666666,6.0
+cessna,206,0.09315013774104683,110.0
+cessna,206A,0.0,2.0
+cessna,206B,0.0,1.0
+cessna,206E,0.0,3.0
+cessna,206F,0.0,2.0
+cessna,206G,0.07583333333333334,16.0
+cessna,206H,0.22615384615384615,13.0
+cessna,206U,0.0,2.0
+cessna,207,0.10233245149911817,108.0
+cessna,207A,0.1539353099730458,53.0
+cessna,208,0.09495337995337995,51.0
+cessna,208A,0.31999999999999995,5.0
+cessna,208B,0.21279166666666666,120.0
+cessna,210,0.11631455399061032,142.0
+cessna,210 5,0.1,5.0
+cessna,210 5 (205),0.6,1.0
+cessna,210 5(205),0.17857142857142858,7.0
+cessna,210 5A,0.1875,2.0
+cessna,210 5A(205A),0.06,1.0
+cessna,210 D,0.0,1.0
+cessna,210 M,0.1111111111111111,3.0
+cessna,210A,0.11346153846153845,26.0
+cessna,210B,0.15158730158730158,21.0
+cessna,210C,0.12424242424242425,11.0
+cessna,210D,0.16294871794871793,26.0
+cessna,210E,0.15357142857142855,21.0
+cessna,210F,0.07999999999999999,10.0
+cessna,210G,0.0818181818181818,11.0
+cessna,210H,0.25999999999999995,5.0
+cessna,210J,0.1983333333333333,10.0
+cessna,210K,0.16315789473684209,19.0
+cessna,210L,0.15155844155844156,77.0
+cessna,210M,0.1784313725490196,34.0
+cessna,210N,0.204,25.0
+cessna,21OK,0.016666666666666666,1.0
+cessna,305,0.075,20.0
+cessna,305 A,0.05,2.0
+cessna,305 C,0.0,1.0
+cessna,305 E,0.0,1.0
+cessna,305A,0.0660919540229885,58.0
+cessna,305A (L 19),0.0,1.0
+cessna,305B,0.0,1.0
+cessna,305C,0.3,2.0
+cessna,305C (0 1E),0.049999999999999996,3.0
+cessna,305E,0.6,1.0
+cessna,305F,0.0,3.0
+cessna,310,0.1859848484848485,44.0
+cessna,310 H,0.0,1.0
+cessna,310 J,0.0,1.0
+cessna,310 R,0.0,1.0
+cessna,310A,0.0,1.0
+cessna,310B,0.13333333333333333,9.0
+cessna,310C,0.14736842105263157,19.0
+cessna,310D,0.23428571428571426,14.0
+cessna,310F,0.16666666666666666,9.0
+cessna,310G,0.05,4.0
+cessna,310H,0.375,8.0
+cessna,310I,0.1296037296037296,11.0
+cessna,310J,0.11666666666666667,18.0
+cessna,310K,0.19058823529411767,17.0
+cessna,310L,0.09,16.0
+cessna,310M,0.6,1.0
+cessna,310N,0.17777777777777776,18.0
+cessna,310P,0.09999999999999999,6.0
+cessna,310Q,0.19915032679738562,51.0
+cessna,310R,0.2513852813852814,77.0
+cessna,310R II,0.016666666666666666,1.0
+cessna,320,0.15740740740740738,18.0
+cessna,320 D,0.3,1.0
+cessna,320A,0.19999999999999998,3.0
+cessna,320B,0.05555555555555555,3.0
+cessna,320C,0.2571428571428571,7.0
+cessna,320D,0.3833333333333333,9.0
+cessna,320E,0.3277777777777777,9.0
+cessna,320F,0.11249999999999999,4.0
+cessna,335,0.48,5.0
+cessna,336,0.4,4.0
+cessna,336A,0.6,1.0
+cessna,337,0.20634920634920634,21.0
+cessna,337 B,0.0,1.0
+cessna,337A,0.475,2.0
+cessna,337A RG,0.0,1.0
+cessna,337B,0.44999999999999996,6.0
+cessna,337C,0.2863636363636364,11.0
+cessna,337D,0.16249999999999998,4.0
+cessna,337F,0.21666666666666667,6.0
+cessna,337G,0.2264705882352941,17.0
+cessna,337H,0.6,1.0
+cessna,337T,0.0,1.0
+cessna,340,0.22894736842105262,38.0
+cessna,340 A,0.0,1.0
+cessna,340A,0.267265625,64.0
+cessna,340A RAM VI,0.0,1.0
+cessna,350,0.0,2.0
+cessna,400,0.18,10.0
+cessna,401,0.175,18.0
+cessna,401A,0.2761111111111111,9.0
+cessna,401B,0.11874999999999998,4.0
+cessna,402,0.10238095238095238,28.0
+cessna,402 B,0.025,2.0
+cessna,402 C,0.3,2.0
+cessna,402A,0.10714285714285714,13.0
+cessna,402B,0.195,55.0
+cessna,402C,0.14767441860465116,43.0
+cessna,404,0.10625,16.0
+cessna,411,0.2636363636363636,11.0
+cessna,411A,0.0,1.0
+cessna,414,0.250819209039548,59.0
+cessna,414 RILEY SUPER 8,0.6,1.0
+cessna,414A,0.21049382716049383,27.0
+cessna,421,0.2157518796992481,38.0
+cessna,421 C,0.49999999999999994,1.0
+cessna,421A,0.027777777777777776,6.0
+cessna,421B,0.21723051409618574,67.0
+cessna,421C,0.28411011904761907,80.0
+cessna,421C RILEY TURBINE E,0.6,1.0
+cessna,425,0.25529448621553885,19.0
+cessna,441,0.267018779342723,24.0
+cessna,500,0.21739130434782608,23.0
+cessna,501,0.31477272727272726,11.0
+cessna,510,0.0,5.0
+cessna,525,0.31960784313725493,17.0
+cessna,525A,0.10227272727272728,11.0
+cessna,525B,0.0,3.0
+cessna,525C,0.0,1.0
+cessna,550,0.122754329004329,28.0
+cessna,551,0.10571428571428572,7.0
+cessna,560,0.2875,20.0
+cessna,560 XL,0.0,1.0
+cessna,560XL,0.0,9.0
+cessna,650,0.0,8.0
+cessna,680,0.18333333333333335,6.0
+cessna,750,0.0,2.0
+cessna,A 185 F,0.0,2.0
+cessna,A 188,0.35,2.0
+cessna,A 188B,0.09999999999999999,3.0
+cessna,A150,0.6,2.0
+cessna,A150K,0.2318181818181818,11.0
+cessna,A150L,0.2263157894736842,19.0
+cessna,A150M,0.12352941176470589,17.0
+cessna,A152,0.24,10.0
+cessna,A185,0.03363095238095238,56.0
+cessna,A185 F,0.0,2.0
+cessna,A185E,0.05797872340425531,47.0
+cessna,A185F,0.08913157894736841,190.0
+cessna,A188,0.1380952380952381,21.0
+cessna,A188 B,0.0,1.0
+cessna,A188A,0.05833333333333333,12.0
+cessna,A188B,0.12705882352941175,170.0
+cessna,A188D,0.6,1.0
+cessna,AT188B,0.2333333333333333,3.0
+cessna,C 140,0.0,1.0
+cessna,C 140A,0.0,1.0
+cessna,C 150,0.1,2.0
+cessna,C 150G,0.1,1.0
+cessna,C 150H,0.0,1.0
+cessna,C 150J,0.0,1.0
+cessna,C 150K,0.0,1.0
+cessna,C 150L,0.0,2.0
+cessna,C 150M,0.05,2.0
+cessna,C 152,0.016666666666666666,9.0
+cessna,C 152 II,0.1,1.0
+cessna,C 152A,0.2,1.0
+cessna,C 170,0.0,1.0
+cessna,C 170A,0.0,1.0
+cessna,C 170B,0.0,2.0
+cessna,C 172,0.30624999999999997,4.0
+cessna,C 172F,0.0,1.0
+cessna,C 172G,0.2111111111111111,3.0
+cessna,C 172M,0.0,1.0
+cessna,C 172N,0.145,5.0
+cessna,C 172P,0.0,1.0
+cessna,C 172R,0.6,1.0
+cessna,C 172RG,0.0,1.0
+cessna,C 172S,0.0,1.0
+cessna,C 177,0.0,1.0
+cessna,C 180,0.0,1.0
+cessna,C 180E,0.0,1.0
+cessna,C 180J,0.0,1.0
+cessna,C 182,0.0,4.0
+cessna,C 182A,0.0,1.0
+cessna,C 182E,0.6,1.0
+cessna,C 182Q,0.49999999999999994,1.0
+cessna,C 195,0.0,1.0
+cessna,C 210,0.15,2.0
+cessna,C 210G,0.0,1.0
+cessna,C 210L,0.06666666666666667,1.0
+cessna,C 210N,0.6,1.0
+cessna,C 310B,0.6,1.0
+cessna,C 336,0.0,1.0
+cessna,C 340A,0.1,1.0
+cessna,C 37,0.6,1.0
+cessna,C 402B,0.6,1.0
+cessna,C 425,0.0,1.0
+cessna,C A150L,0.6,1.0
+cessna,C A185F,0.0,1.0
+cessna,C T188C,0.0,1.0
+cessna,C T210,0.0,1.0
+cessna,C T210N,0.0,1.0
+cessna,C U206B,0.0,1.0
+cessna,C150,0.15,2.0
+cessna,C152,0.0,2.0
+cessna,C152 II,0.0,1.0
+cessna,C170A,0.0,1.0
+cessna,C172,0.016666666666666666,2.0
+cessna,C172F,0.0,1.0
+cessna,C172M,0.0,2.0
+cessna,C172N,0.03125,4.0
+cessna,C172P,0.2,1.0
+cessna,C172R,0.0,2.0
+cessna,C172S,0.0,1.0
+cessna,C175,0.1,1.0
+cessna,C175A,0.1,1.0
+cessna,C177B,0.0,2.0
+cessna,C180A,0.0,1.0
+cessna,C182A,0.1,1.0
+cessna,C182R,0.6,1.0
+cessna,C185F,0.0,1.0
+cessna,C195A,0.0,1.0
+cessna,C205,0.0,1.0
+cessna,C208B,0.0,1.0
+cessna,C310R,0.0,1.0
+cessna,C337,0.0,1.0
+cessna,C340A,0.0,1.0
+cessna,C421B,0.1,1.0
+cessna,CE 152,0.0,2.0
+cessna,CE 172M,0.0,1.0
+cessna,CE 172P,0.0,1.0
+cessna,CE 180,0.0,1.0
+cessna,CE 180 A,0.0,1.0
+cessna,CE 182 A,0.3,1.0
+cessna,CE 208,0.03333333333333333,1.0
+cessna,CE 500,0.0,1.0
+cessna,CITATION 500,0.0,1.0
+cessna,CITATION 510,0.0,1.0
+cessna,CITATION 525,0.0,1.0
+cessna,CITATION 560,0.0,1.0
+cessna,E162,0.06666666666666667,9.0
+cessna,ECTOR 305A,0.1,1.0
+cessna,FA150K,0.0,1.0
+cessna,FR 172J,0.1,1.0
+cessna,K172R,0.6,1.0
+cessna,L 19,0.03333333333333333,3.0
+cessna,L 19A,0.0,1.0
+cessna,L 19E,0.12,5.0
+cessna,L19,0.0375,4.0
+cessna,L19 A,0.3,1.0
+cessna,LC 126C,0.0,1.0
+cessna,LC41 550FG,0.0875,4.0
+cessna,LC42 550FG,0.3,2.0
+cessna,M337B,0.3,2.0
+cessna,M337B (O 2A),0.6,1.0
+cessna,O 1E,0.1,1.0
+cessna,O 2A,0.0,1.0
+cessna,O1 A,0.0,1.0
+cessna,O337F,0.0,1.0
+cessna,P 210N,0.3,2.0
+cessna,P172D,0.11666666666666665,3.0
+cessna,P206,0.22850877192982458,19.0
+cessna,P206A,0.3,6.0
+cessna,P206B,0.1585034013605442,7.0
+cessna,P206C,0.25,6.0
+cessna,P206D,0.025,2.0
+cessna,P210,0.19827586206896552,29.0
+cessna,P210 N,0.19999999999999998,1.0
+cessna,P210N,0.22293333333333334,125.0
+cessna,P210R,0.29,5.0
+cessna,P337,0.0,1.0
+cessna,P337G,0.6,1.0
+cessna,P337H,0.321875,8.0
+cessna,R 182,0.6,1.0
+cessna,R172,0.09999999999999999,8.0
+cessna,R172 E,0.1,1.0
+cessna,R172 K,0.0,1.0
+cessna,R172E,0.10208333333333333,16.0
+cessna,R172E (T 41C),0.0,1.0
+cessna,R172K,0.13548850574712643,58.0
+cessna,R172K II,0.1,1.0
+cessna,R182,0.12589285714285714,84.0
+cessna,R182RG,0.0,2.0
+cessna,S 550,0.0,1.0
+cessna,S550,0.3,4.0
+cessna,SKYHAWK 172,0.0,1.0
+cessna,T 188,0.0,1.0
+cessna,T 188C,0.05,4.0
+cessna,T 206,0.0,1.0
+cessna,T 207A,0.0,2.0
+cessna,T 210,0.0,2.0
+cessna,T 210 L,0.0,1.0
+cessna,T 210 M,0.2222222222222222,3.0
+cessna,T 210 N,0.0,1.0
+cessna,T 210F,0.6,1.0
+cessna,T 210J,0.3,1.0
+cessna,T 210L,0.1,1.0
+cessna,T 210M,0.1,1.0
+cessna,T 210N,0.2475,4.0
+cessna,T 310P,0.1,1.0
+cessna,T 337 D,0.0,1.0
+cessna,T 337 G P,0.6,1.0
+cessna,T 337E,0.0,1.0
+cessna,T 37B,0.2333333333333333,1.0
+cessna,T 41B,0.3,1.0
+cessna,T 50,0.39999999999999997,3.0
+cessna,T R182RG,0.0,1.0
+cessna,T182,0.24545454545454548,11.0
+cessna,T182RG,0.0,1.0
+cessna,T182T,0.1414141414141414,33.0
+cessna,T188,0.16,5.0
+cessna,T188C,0.064,50.0
+cessna,T206,0.08333333333333333,6.0
+cessna,T206H,0.17808333333333332,40.0
+cessna,T207,0.18333333333333332,12.0
+cessna,T207 A,0.6,1.0
+cessna,T207A,0.196031746031746,21.0
+cessna,T210,0.13062015503875968,43.0
+cessna,T210 F,0.3,2.0
+cessna,T210 L,0.05,2.0
+cessna,T210 M,0.3,2.0
+cessna,T210F,0.06944444444444443,12.0
+cessna,T210G,0.2833333333333333,9.0
+cessna,T210H,0.042857142857142864,7.0
+cessna,T210J,0.12857142857142856,7.0
+cessna,T210K,0.10888888888888888,15.0
+cessna,T210L,0.1693693693693694,111.0
+cessna,T210M,0.18242816091954023,116.0
+cessna,T210N,0.15513888888888888,132.0
+cessna,T210N II,0.6,1.0
+cessna,T210R,0.19027777777777777,12.0
+cessna,T21OR,0.0,1.0
+cessna,T240,0.0,1.0
+cessna,T303,0.26845238095238094,14.0
+cessna,T303A,0.0,1.0
+cessna,T310,0.0,2.0
+cessna,T310P,0.3,1.0
+cessna,T310Q,0.3,3.0
+cessna,T310R,0.20714285714285713,22.0
+cessna,T337,0.225,8.0
+cessna,T337B,0.0,1.0
+cessna,T337C,0.6,3.0
+cessna,T337D,0.06666666666666667,3.0
+cessna,T337E,0.16666666666666666,3.0
+cessna,T337G,0.388,20.0
+cessna,T337H,0.6,2.0
+cessna,T37B,0.15,1.0
+cessna,T50 A17,0.1,1.0
+cessna,TC206G,0.05,1.0
+cessna,TP206,0.3,2.0
+cessna,TP206A,0.06666666666666667,3.0
+cessna,TP206B,0.0,2.0
+cessna,TR 182,0.1,1.0
+cessna,TR182,0.16561181434599154,79.0
+cessna,TR182RG,0.0,1.0
+cessna,TU 206,0.16666666666666666,1.0
+cessna,TU 206F,0.24999999999999997,2.0
+cessna,TU 206G,0.39999999999999997,3.0
+cessna,TU206,0.13636363636363635,11.0
+cessna,TU206 G,0.1,1.0
+cessna,TU206A,0.09999999999999999,6.0
+cessna,TU206B,0.19999999999999998,3.0
+cessna,TU206C,0.15,2.0
+cessna,TU206E,0.0,1.0
+cessna,TU206F,0.14047619047619048,14.0
+cessna,TU206G,0.11531531531531532,37.0
+cessna,TURBO CENTURION T210,0.0,1.0
+cessna,U 206,0.0,2.0
+cessna,U 206E,0.0,1.0
+cessna,U 206G,0.30833333333333335,2.0
+cessna,U 3A,0.6,1.0
+cessna,U206,0.145,40.0
+cessna,U206 C,0.0,1.0
+cessna,U206 F,0.44999999999999996,1.0
+cessna,U206 G,0.075,2.0
+cessna,U206A,0.0,6.0
+cessna,U206B,0.16428571428571428,7.0
+cessna,U206C,0.3,6.0
+cessna,U206D,0.0,4.0
+cessna,U206E,0.14402777777777778,12.0
+cessna,U206F,0.18486111111111111,48.0
+cessna,U206G,0.1706280193236715,69.0
+champion,11BC S,0.15,1.0
+champion,402,0.10238095238095238,28.0
+champion,7 GCAA,0.0,1.0
+champion,7 GCBC,0.3,2.0
+champion,7AC,0.12513736263736264,182.0
+champion,7AC/BCM,0.6,1.0
+champion,7ACA,0.0,1.0
+champion,7BCM,0.1318181818181818,33.0
+champion,7EC,0.13478260869565217,46.0
+champion,7EC 703,0.0,1.0
+champion,7ECA,0.11813186813186813,91.0
+champion,7ECA 326,0.2,1.0
+champion,7FC,0.1,26.0
+champion,7GC,0.0,9.0
+champion,7GCAA,0.17258064516129032,31.0
+champion,7GCB,0.05384615384615384,13.0
+champion,7GCBA,0.0,2.0
+champion,7GCBC,0.10615942028985506,46.0
+champion,7GCG,0.1,1.0
+champion,7HC,0.3,2.0
+champion,7KCAB,0.17903225806451611,31.0
+champion,8GCBC,0.23333333333333334,9.0
+champion,8KCAB,0.2583333333333333,6.0
+champion,AERONCA 7AC,0.3,3.0
+champion,AERONCA 7BCM,0.6,1.0
+champion,AERONCA 7CCM,0.0,1.0
+champion,AERONCA 7DC,0.0,1.0
+champion,AERONCA 7FC,0.0,1.0
+champion,AERONCA 7GCB,0.44999999999999996,1.0
+champion,AERONCA 7HC,0.0,1.0
+champion,BL 7 GCBC,0.6,1.0
+champion,CITABRIA,0.16666666666666666,1.0
+champion,CITABRIA 7 GCBC,0.1,1.0
+cirrus,SF50,0.0,3.0
+cirrus,SR,0.0,1.0
+cirrus,SR 20,0.26,9.0
+cirrus,SR 22,0.24130434782608695,23.0
+cirrus,SR20,0.21244588744588747,77.0
+cirrus,SR22,0.21791090629800305,217.0
+cirrus,SR22 G2,0.6,1.0
+cirrus,SR22 GTS,0.0,1.0
+cirrus,SR22 NO SERIES,0.0,1.0
+cirrus,SR22T,0.24509803921568624,17.0
+de havilland,BEAVER DHC 2,0.12571428571428572,5.0
+de havilland,BEAVER DHC 2 MK.1,0.002857142857142857,5.0
+de havilland,BEAVER U 6A,0.0,1.0
+de havilland,C 7A,0.1,1.0
+de havilland,DASH 8 100,0.01818181818181818,1.0
+de havilland,DH 100 MK.6,0.6,1.0
+de havilland,DH 8 202,0.0,2.0
+de havilland,DH 82 A,0.0,1.0
+de havilland,DH 82 C,0.05,1.0
+de havilland,DH 82 TIGER MOTH,0.0,1.0
+de havilland,DH 82A,0.1111111111111111,9.0
+de havilland,DH 82C,0.3,1.0
+de havilland,DH 82C TIGERMOTH,0.0,1.0
+de havilland,DH112 VENOM,0.6,1.0
+de havilland,DH6,0.008333333333333333,1.0
+de havilland,DHC 1,0.3,3.0
+de havilland,DHC 1B 2,0.6,1.0
+de havilland,DHC 2,0.13489652623798964,82.0
+de havilland,DHC 2 MARK 1,0.3285714285714285,2.0
+de havilland,DHC 2 MK I,0.21,2.0
+de havilland,DHC 2 MK III,0.0,1.0
+de havilland,DHC 2 MK. I,0.3,2.0
+de havilland,DHC 2 MK. I(L20A),0.0857142857142857,1.0
+de havilland,DHC 2 MK.1,0.0,1.0
+de havilland,DHC 2 MK3,0.2333333333333333,1.0
+de havilland,DHC 2 MKI,0.1,1.0
+de havilland,DHC 2 T,0.0,1.0
+de havilland,DHC 22A,0.3,1.0
+de havilland,DHC 3,0.07322472848788637,19.0
+de havilland,DHC 3T,0.0,2.0
+de havilland,DHC 4,0.0,1.0
+de havilland,DHC 4A,0.44999999999999996,1.0
+de havilland,DHC 6,0.07142857142857142,7.0
+de havilland,DHC 6 100,0.26488095238095233,2.0
+de havilland,DHC 6 200,0.11393939393939394,8.0
+de havilland,DHC 6 300,0.009090909090909092,11.0
+de havilland,DHC 6 6,0.03333333333333333,1.0
+de havilland,DHC 6 TWIN OTTER,0.03447204968944099,2.0
+de havilland,DHC 8,0.0,3.0
+de havilland,DHC 8 102,0.003076923076923077,5.0
+de havilland,DHC 8 311,0.001851851851851852,1.0
+de havilland,DHC 94 MOTH MINOR,0.0,1.0
+de havilland,DHC2,0.03333333333333333,6.0
+de havilland,DHC3,0.0,1.0
+de havilland,DHC6,0.15,2.0
+de havilland,DHC8,0.3,2.0
+de havilland,DHC8 102,0.0,1.0
+de havilland,TIGER MOTH DH 82A,0.09999999999999999,3.0
+de havilland,TIGER MOTH DH82A,0.05,1.0
+de havilland,U 6A,0.1,2.0
+de havilland,VAMPIRE MK 3,0.1,1.0
+de havilland,VENOM 112 MK4,0.6,1.0
+enstrom,280,0.0,1.0
+enstrom,280 FX,0.0,2.0
+enstrom,280C,0.07500000000000001,18.0
+enstrom,280CB,0.1,1.0
+enstrom,280FX,0.1571428571428571,7.0
+enstrom,480,0.1111111111111111,3.0
+enstrom,480B,0.0,1.0
+enstrom,EN 28,0.1,1.0
+enstrom,F 28,0.03333333333333333,1.0
+enstrom,F 28 F,0.1,1.0
+enstrom,F 280C,0.1,1.0
+enstrom,F 28A,0.07254901960784314,17.0
+enstrom,F 28C,0.06442307692307693,26.0
+enstrom,F 28C 2,0.0,1.0
+enstrom,F 28F,0.015151515151515154,11.0
+enstrom,F28,0.016666666666666666,3.0
+enstrom,F28 280C,0.0,1.0
+enstrom,F28 C,0.44999999999999996,1.0
+enstrom,F280,0.1,1.0
+enstrom,F280C,0.0,1.0
+enstrom,F280F,0.0,1.0
+enstrom,F280FX,0.0,1.0
+enstrom,F28A,0.05714285714285715,7.0
+enstrom,F28C,0.23888888888888887,9.0
+enstrom,F28C 2,0.0,1.0
+enstrom,F28F,0.12,5.0
+enstrom,TH 28,0.0,1.0
+ercoupe (eng & research corp.),415 C,0.1159090909090909,44.0
+ercoupe (eng & research corp.),415 CD,0.25,6.0
+ercoupe (eng & research corp.),415 D,0.16874999999999998,8.0
+ercoupe (eng & research corp.),415 E,0.05,2.0
+ercoupe (eng & research corp.),415 G,0.05,2.0
+ercoupe (eng & research corp.),415C,0.15833333333333333,18.0
+ercoupe (eng & research corp.),415CD,0.6,1.0
+ercoupe (eng & research corp.),415D,0.175,4.0
+ercoupe (eng & research corp.),415E,0.3,2.0
+ercoupe (eng & research corp.),415G,0.1,1.0
+ercoupe (eng & research corp.),E,0.0,2.0
+ercoupe (eng & research corp.),ERCO 415C,0.6,1.0
+ercoupe (eng & research corp.),ERCOUPE 415 C,0.13999999999999999,5.0
+ercoupe (eng & research corp.),ERCOUPE 415 D,0.6,1.0
+ercoupe (eng & research corp.),ERCOUPE 415C,0.0,1.0
+ercoupe (eng & research corp.),G,0.3,2.0
+grumman,164,0.1,1.0
+grumman,164 A,0.0,1.0
+grumman,164 B,0.0,2.0
+grumman,164A,0.15,8.0
+grumman,164B,0.075,4.0
+grumman,A6E,0.2333333333333333,1.0
+grumman,AA,0.0,1.0
+grumman,AA 1,0.1590909090909091,11.0
+grumman,AA 1A,0.18888888888888888,9.0
+grumman,AA 1B,0.23170731707317077,41.0
+grumman,AA 1C,0.1656521739130435,23.0
+grumman,AA 5,0.20854700854700853,39.0
+grumman,AA 5 TRAVELER,0.07500000000000001,1.0
+grumman,AA 5A,0.2051388888888889,60.0
+grumman,AA 5B,0.17794117647058824,68.0
+grumman,AA 5KB,0.1,1.0
+grumman,AA LC,0.2,1.0
+grumman,AA1,0.25999999999999995,5.0
+grumman,AA1B,0.22999999999999998,10.0
+grumman,AA1B TR2,0.1,1.0
+grumman,AA1C,0.05,4.0
+grumman,AA5,0.16071428571428573,14.0
+grumman,AA5 A,0.1,1.0
+grumman,AA5A,0.06000000000000002,5.0
+grumman,AA5B,0.14531249999999998,16.0
+grumman,AG 5B,0.0,1.0
+grumman,AG CAT G 164A,0.0,1.0
+grumman,AG5B,0.0,2.0
+grumman,C 1A,0.3,2.0
+grumman,F6F,0.6,1.0
+grumman,F6F 5,0.39999999999999997,1.0
+grumman,F8F 1,0.36666666666666664,2.0
+grumman,F9F 2,0.3,1.0
+grumman,FM 2,0.0,1.0
+grumman,G 111,0.09999999999999999,1.0
+grumman,G 1159,0.0,7.0
+grumman,G 159,0.42666666666666664,2.0
+grumman,G 164,0.08442622950819673,61.0
+grumman,G 164 A,0.0,6.0
+grumman,G 164 B,0.025000000000000005,4.0
+grumman,G 164A,0.0721784776902887,254.0
+grumman,G 164B,0.08697183098591549,284.0
+grumman,G 164C,0.05714285714285714,14.0
+grumman,G 164D,0.14166666666666666,6.0
+grumman,G 21,0.005555555555555556,3.0
+grumman,G 21A,0.21825396825396823,7.0
+grumman,G 21E,0.6,1.0
+grumman,G 44,0.11428571428571428,14.0
+grumman,G 44A,0.05,2.0
+grumman,G 73T,0.6,2.0
+grumman,G1159,0.6,1.0
+grumman,G164,0.10588235294117647,34.0
+grumman,G164 A,0.0,2.0
+grumman,G164 B,0.19999999999999998,3.0
+grumman,G164A,0.13999999999999999,5.0
+grumman,G164A 450,0.1,1.0
+grumman,G164B,0.038235294117647055,17.0
+grumman,G21,0.025,2.0
+grumman,G21 G,0.6,1.0
+grumman,G21A,0.1,2.0
+grumman,G44,0.15,2.0
+grumman,G58A,0.3,1.0
+grumman,GA7,0.6,1.0
+grumman,GULFSTREAM III,0.6,1.0
+grumman,HU 16,0.06923076923076923,1.0
+grumman,HU 16C,0.21666666666666665,2.0
+grumman,OV 1,0.6,1.0
+grumman,S 2B,0.22,1.0
+grumman,S2F 1,0.0,1.0
+grumman,TBM 3,0.11666666666666665,3.0
+grumman,TBM 3E,0.0,1.0
+grumman,TMB 3E,0.0,1.0
+grumman,TR 2,0.1,1.0
+grumman,TS 2A,0.6,3.0
+grumman,US 2C,0.6,1.0
+gulfstream,500B,0.38055555555555554,9.0
+gulfstream,690,0.1125,12.0
+gulfstream,690B,0.32254901960784316,17.0
+gulfstream,690C,0.13333333333333333,9.0
+gulfstream,695A,0.1111111111111111,3.0
+gulfstream,AA 1,0.1590909090909091,11.0
+gulfstream,AA 1A,0.18888888888888888,9.0
+gulfstream,AA 1B,0.23170731707317074,41.0
+gulfstream,AA 5,0.20854700854700853,39.0
+gulfstream,AA 5A,0.2051388888888889,60.0
+gulfstream,AA 5B,0.17794117647058824,68.0
+gulfstream,AA1A,0.3,1.0
+gulfstream,AA5A,0.06000000000000001,5.0
+gulfstream,AA5B,0.14531249999999998,16.0
+gulfstream,COMMANDER,0.6,1.0
+gulfstream,G 1159,0.0,7.0
+gulfstream,G 1159A,0.0,1.0
+gulfstream,G 164B,0.08697183098591549,284.0
+gulfstream,G 164C,0.05714285714285714,14.0
+gulfstream,G 164D,0.14166666666666666,6.0
+gulfstream,G III,0.6,1.0
+gulfstream,G IV,0.15,8.0
+gulfstream,G V,0.0,1.0
+gulfstream,G150,0.24999999999999997,1.0
+gulfstream,GIV,0.0,2.0
+gulfstream,GULFSTREAM,0.0,2.0
+gulfstream,GULFSTREAM AM G 164B,0.1,8.0
+gulfstream,GULFSTREAM AM G 164C,0.0,1.0
+gulfstream,GULFSTREAM G150,0.0,1.0
+gulfstream,GV 1,0.0,1.0
+gulfstream,GV SP,0.0,1.0
+gulfstream,GVI,0.6,1.0
+hiller,12 E,0.0,1.0
+hiller,12C,0.0,1.0
+hiller,1345,0.2333333333333333,1.0
+hiller,FH 1100,0.3,6.0
+hiller,FH1100,0.0,1.0
+hiller,H 12E,0.1,1.0
+hiller,HILLER UH 12E,0.0,1.0
+hiller,HU 12E,0.6,1.0
+hiller,OH 23C,0.05,2.0
+hiller,UH 12,0.016666666666666666,2.0
+hiller,UH 12 E,0.05,2.0
+hiller,UH 12A,0.2333333333333333,3.0
+hiller,UH 12B,0.025,8.0
+hiller,UH 12C,0.03461538461538462,13.0
+hiller,UH 12D,0.06190476190476191,7.0
+hiller,UH 12E,0.1053763440860215,62.0
+hiller,UH 12E4,0.0,1.0
+hiller,UH 12ET,0.0,3.0
+hiller,UH 12L4,0.0,1.0
+hiller,UH12,0.0,1.0
+hiller,UH12 C,0.0,1.0
+hiller,UH12 E,0.2,1.0
+hiller,"UH12 E, SALOY CONVER",0.1,1.0
+hiller,UH12B,0.0,1.0
+hiller,UH12C,0.05,1.0
+hiller,UH12D,0.0,1.0
+hiller,UH12E,0.04,5.0
+hughes,269,0.0,2.0
+hughes,269 C,0.0,2.0
+hughes,269A,0.14489795918367346,49.0
+hughes,269A 1,0.09999999999999999,4.0
+hughes,269B,0.10178571428571428,28.0
+hughes,269C,0.12465277777777778,144.0
+hughes,269C 1,0.078125,16.0
+hughes,300C,0.1,8.0
+hughes,369,0.26666666666666666,6.0
+hughes,369A,0.27619047619047615,7.0
+hughes,369B,0.6,1.0
+hughes,369C,0.025000000000000005,3.0
+hughes,369D,0.12477678571428572,112.0
+hughes,369E,0.12216145833333332,64.0
+hughes,369FF,0.20324074074074075,18.0
+hughes,369HE,0.0,1.0
+hughes,369HS,0.15828571428571428,35.0
+hughes,500,0.21739130434782608,23.0
+hughes,500 D,0.0,1.0
+hughes,500C,0.0,2.0
+hughes,500D,0.08333333333333333,6.0
+hughes,H500C,0.0,1.0
+hughes,HU 269 A,0.0,1.0
+hughes,HU 369 D,0.1,1.0
+hughes,MDL 369HS,0.0,1.0
+hughes,OH 6,0.0,1.0
+hughes,OH 6A,0.14907407407407408,27.0
+hughes,TH 55,0.17777777777777776,9.0
+hughes,TH 55A,0.075,6.0
+luscombe,11A,0.025,4.0
+luscombe,194E,0.0,1.0
+luscombe,8,0.14021739130434782,46.0
+luscombe,8 A,0.3,2.0
+luscombe,8 F,0.0,1.0
+luscombe,8A,0.09999999999999999,136.0
+luscombe,8A/E,0.0,1.0
+luscombe,8C,0.15,4.0
+luscombe,8D,0.1,1.0
+luscombe,8E,0.10586419753086419,54.0
+luscombe,8EZ,0.0,1.0
+luscombe,8F,0.06153846153846154,26.0
+luscombe,IIA,0.0,1.0
+luscombe,L 8F,0.2,1.0
+luscombe,LL 8,0.3,1.0
+luscombe,LL 8 A,0.05,1.0
+luscombe,LL 8 C,0.0,1.0
+luscombe,LL 8 E,0.19999999999999998,3.0
+luscombe,LL 8 F,0.1,1.0
+luscombe,PHANTOM 1,0.0,1.0
+luscombe,SL8,0.0,2.0
+luscombe,T8F,0.1,2.0
+maule,7 235,0.0,1.0
+maule,BEE DEE M 4,0.6,1.0
+maule,BEE DEE M 4 210,0.6,1.0
+maule,M 4,0.013333333333333332,10.0
+maule,M 4 180V,0.0,2.0
+maule,M 4 210,0.0,4.0
+maule,M 4 210C,0.13999999999999999,10.0
+maule,M 4 220C,0.06091954022988506,29.0
+maule,M 4C,0.0,1.0
+maule,M 5,0.07948717948717948,13.0
+maule,M 5 180,0.0,1.0
+maule,M 5 180C,0.12916666666666668,12.0
+maule,M 5 200,0.0,1.0
+maule,M 5 200C,0.0,1.0
+maule,M 5 210C,0.0875,20.0
+maule,M 5 210TC,0.3,1.0
+maule,M 5 220C,0.19999999999999998,3.0
+maule,M 5 235,0.03333333333333333,3.0
+maule,M 5 235 C,0.0,2.0
+maule,M 5 235C,0.13034188034188032,39.0
+maule,M 6,0.3,1.0
+maule,M 6 180C,0.0,1.0
+maule,M 6 235,0.1148148148148148,18.0
+maule,M 7,0.1,8.0
+maule,M 7 235,0.09791666666666667,24.0
+maule,M 7 235B,0.016666666666666666,12.0
+maule,M 7 235C,0.05555555555555555,18.0
+maule,M 7 260,0.0,4.0
+maule,M 7 260C,0.0,7.0
+maule,M 7 420AC,0.15,1.0
+maule,M 8 235,0.0,1.0
+maule,M4,0.0,7.0
+maule,M4 210,0.0,1.0
+maule,M4 210C,0.15,4.0
+maule,M4 220 C,0.0,1.0
+maule,M4 220C,0.0,1.0
+maule,M5,0.09117647058823529,17.0
+maule,M5 180C,0.0,3.0
+maule,M5 210C,0.0,2.0
+maule,M5 210TC,0.0,1.0
+maule,M5 235C,0.15,4.0
+maule,M5C,0.0,1.0
+maule,M6,0.06666666666666667,1.0
+maule,M6 235,0.0,2.0
+maule,M7,0.09,10.0
+maule,M7 235B,0.44999999999999996,1.0
+maule,M7 235C,0.0,3.0
+maule,M7 260,0.0,1.0
+maule,MA 4,0.3,1.0
+maule,MA 7 235C,0.0,1.0
+maule,ML 4,0.1,1.0
+maule,ML 4 220C,0.0,1.0
+maule,ML 5,0.0,1.0
+maule,ML 7,0.3,1.0
+maule,MT 7,0.3,2.0
+maule,MT 7 235,0.03333333333333333,9.0
+maule,MT 7 260,0.05,2.0
+maule,MT 7 420,0.0,1.0
+maule,MT7,0.15,1.0
+maule,MT7 235,0.0,1.0
+maule,MX 7,0.0,5.0
+maule,MX 7 160,0.05,4.0
+maule,MX 7 180,0.056249999999999994,8.0
+maule,MX 7 180A,0.0,7.0
+maule,MX 7 180AC,0.03333333333333333,1.0
+maule,MX 7 180B,0.3,2.0
+maule,MX 7 180C,0.075,6.0
+maule,MX 7 2325,0.0,1.0
+maule,MX 7 235,0.03235294117647059,17.0
+maule,MX7,0.034374999999999996,16.0
+maule,MX7 180,0.0,1.0
+maule,MX7 180A,0.0,1.0
+maule,MX7 235,0.0,1.0
+maule,MX7235,0.0,1.0
+maule,MXT 180,0.0,1.0
+maule,MXT 7,0.0,1.0
+maule,MXT 7 108A,0.0,1.0
+maule,MXT 7 180,0.19,5.0
+maule,MXT 7 180A,0.12222222222222223,9.0
+maule,MXT7,0.0,1.0
+maule,MXT7 180A,0.0,1.0
+mcdonnell douglas,269A,0.14489795918367346,49.0
+mcdonnell douglas,369,0.26666666666666666,6.0
+mcdonnell douglas,369D,0.12477678571428572,112.0
+mcdonnell douglas,369E,0.12216145833333333,64.0
+mcdonnell douglas,369E (MD500E),0.3,1.0
+mcdonnell douglas,369FF,0.20324074074074072,18.0
+mcdonnell douglas,369HS,0.15828571428571428,35.0
+mcdonnell douglas,500 E,0.03333333333333333,1.0
+mcdonnell douglas,500D,0.08333333333333333,6.0
+mcdonnell douglas,500E,0.0,2.0
+mcdonnell douglas,500N,0.17499999999999996,6.0
+mcdonnell douglas,520N,0.1225,2.0
+mcdonnell douglas,600,0.08333333333333333,2.0
+mcdonnell douglas,600N,0.14102564102564102,13.0
+mcdonnell douglas,A 4N,0.6,1.0
+mcdonnell douglas,AH 64D,0.22499999999999998,1.0
+mcdonnell douglas,DC 10 10,0.0,1.0
+mcdonnell douglas,DC 10 10CF,0.04000000000000001,1.0
+mcdonnell douglas,DC 10 10F,0.0,2.0
+mcdonnell douglas,DC 10 30,0.08333333333333333,3.0
+mcdonnell douglas,DC 10 30F,0.0,2.0
+mcdonnell douglas,DC 3,0.0,1.0
+mcdonnell douglas,DC 8 63F,0.0,2.0
+mcdonnell douglas,DC 8F 55,0.0,1.0
+mcdonnell douglas,DC 9 14,0.052525252525252523,1.0
+mcdonnell douglas,DC 9 15,0.3,2.0
+mcdonnell douglas,DC 9 31,0.0,3.0
+mcdonnell douglas,DC 9 32,0.006302681992337165,6.0
+mcdonnell douglas,DC 9 50,0.0,1.0
+mcdonnell douglas,DC 9 51,0.005655278732678881,4.0
+mcdonnell douglas,DC 9 82,0.0018365557664738908,7.0
+mcdonnell douglas,DC 9 82 (MD 82),0.008189655172413794,2.0
+mcdonnell douglas,DC 9 83,0.0,2.0
+mcdonnell douglas,DC 9 83 (MD 83),0.0006369426751592357,1.0
+mcdonnell douglas,DC 9 83(MD 83),0.0004672897196261682,2.0
+mcdonnell douglas,DC 9 87,0.007142857142857142,2.0
+mcdonnell douglas,DC10,0.0,1.0
+mcdonnell douglas,DC10 30F,0.0,1.0
+mcdonnell douglas,F/A 18C,0.6,1.0
+mcdonnell douglas,H 369,0.1,1.0
+mcdonnell douglas,H369,0.0,1.0
+mcdonnell douglas,HU 600N,0.6,1.0
+mcdonnell douglas,MD 10,0.0,1.0
+mcdonnell douglas,MD 10 10F,0.009523809523809523,3.0
+mcdonnell douglas,MD 11,0.027944177671068427,8.0
+mcdonnell douglas,MD 11 F,0.05,1.0
+mcdonnell douglas,MD 11/F,0.0,1.0
+mcdonnell douglas,MD 11F,0.0,5.0
+mcdonnell douglas,MD 500D,0.0,1.0
+mcdonnell douglas,MD 500E,0.14,1.0
+mcdonnell douglas,MD 520N,0.0,1.0
+mcdonnell douglas,MD 600,0.0,2.0
+mcdonnell douglas,MD 600N,0.0,2.0
+mcdonnell douglas,MD 80,0.008850938224752268,3.0
+mcdonnell douglas,MD 81,0.0,1.0
+mcdonnell douglas,MD 82,0.042799568965517246,5.0
+mcdonnell douglas,MD 83,0.0015400250156347717,4.0
+mcdonnell douglas,MD 88,0.0023814328638549066,15.0
+mcdonnell douglas,MD 90 30,0.0,2.0
+mcdonnell douglas,MD 900,0.0,2.0
+mcdonnell douglas,MD 902,0.0,1.0
+mcdonnell douglas,MD369D,0.0,1.0
+mcdonnell douglas,MD500,0.0,1.0
+mcdonnell douglas,MD600N,0.0,2.0
+mcdonnell douglas,MD80,0.002586206896551724,1.0
+mcdonnell douglas,MD88,0.0007299270072992701,1.0
+mcdonnell douglas,MD90 30,0.0,1.0
+mooney,20E,0.19999999999999998,3.0
+mooney,20F,0.18,5.0
+mooney,20G,0.0,1.0
+mooney,20J,0.175,4.0
+mooney,20P,0.3,1.0
+mooney,231,0.0,1.0
+mooney,M 10,0.3,2.0
+mooney,M 18L,0.0,2.0
+mooney,M 20,0.05,2.0
+mooney,M 20 20,0.6,1.0
+mooney,M 20 C,0.6,1.0
+mooney,M 20 M,0.15,2.0
+mooney,M 20B,0.0,1.0
+mooney,M 20C,0.16666666666666666,9.0
+mooney,M 20E,0.2740740740740741,9.0
+mooney,M 20F,0.10952380952380951,7.0
+mooney,M 20G,0.0125,4.0
+mooney,M 20J,0.20909090909090908,11.0
+mooney,M 20K,0.0,1.0
+mooney,M 20K 231,0.2,1.0
+mooney,M 20M,0.3,1.0
+mooney,M 20R,0.3,2.0
+mooney,M10,0.44999999999999996,2.0
+mooney,M18LA,0.3,1.0
+mooney,M20,0.17222222222222225,27.0
+mooney,M20 C,0.02777777777777778,3.0
+mooney,M20 J,0.06874999999999999,4.0
+mooney,M20 K,0.0,1.0
+mooney,M20 M,0.3,2.0
+mooney,M20/231,0.0,1.0
+mooney,M20A,0.2607843137254902,17.0
+mooney,M20B,0.14833333333333334,15.0
+mooney,M20C,0.1997392290249433,147.0
+mooney,M20D,0.16428571428571428,14.0
+mooney,M20E,0.21132958801498128,89.0
+mooney,M20E NO SERIES,0.0,1.0
+mooney,M20F,0.21812015503875967,86.0
+mooney,M20G,0.09999999999999999,6.0
+mooney,M20J,0.20803571428571427,196.0
+mooney,M20J/201,0.0,1.0
+mooney,M20K,0.2171448087431694,122.0
+mooney,M20L,0.25,4.0
+mooney,M20L NO SERIES,0.35,1.0
+mooney,M20M,0.22894736842105262,38.0
+mooney,M20R,0.17714285714285716,35.0
+mooney,M20S,0.09,10.0
+mooney,M20TN,0.07333333333333333,15.0
+mooney,M2OE,0.0,1.0
+mooney,MARK 22,0.0,1.0
+mooney,MO 20J,0.6,1.0
+north american,AT,0.0,2.0
+north american,AT 6,0.2375,8.0
+north american,AT 6 D,0.0,1.0
+north american,AT 6A,0.3,4.0
+north american,AT 6B,0.0,1.0
+north american,AT 6C,0.08571428571428572,7.0
+north american,AT 6D,0.165625,16.0
+north american,AT 6F,0.01,5.0
+north american,AT 6G,0.028571428571428574,7.0
+north american,AT6,0.3,2.0
+north american,B 25J,0.0,1.0
+north american,B25,0.0,1.0
+north american,B25N,0.16666666666666666,1.0
+north american,F 51,0.0,1.0
+north american,F 51D,0.5,5.0
+north american,F 86,0.0,1.0
+north american,F51,0.6,1.0
+north american,HARVARD 2,0.0,1.0
+north american,HARVARD II T 6,0.6,1.0
+north american,HARVARD MK,0.15,1.0
+north american,HARVARD MK II,0.3,2.0
+north american,HARVARD MK IV,0.0,1.0
+north american,NA 265 40,0.0,2.0
+north american,NA 265 50,0.0,1.0
+north american,NA 265 65,0.24,5.0
+north american,NA 265 80,0.13124999999999998,8.0
+north american,NA 64,0.0,2.0
+north american,NA1,0.3,1.0
+north american,NAVION,0.24431818181818182,22.0
+north american,NAVION 4,0.16666666666666666,1.0
+north american,NAVION A,0.26666666666666666,6.0
+north american,NAVION A (L 17B),0.3,1.0
+north american,NAVION B,0.2,1.0
+north american,NAVION D,0.0,1.0
+north american,NAVION H,0.6,1.0
+north american,NAVION L 17A,0.0,1.0
+north american,NAVION NA 1,0.0,1.0
+north american,OV 10A,0.6,2.0
+north american,P 51,0.15,2.0
+north american,P 51 D,0.3,1.0
+north american,P 51C,0.6,1.0
+north american,P 51D,0.2909090909090909,11.0
+north american,P51,0.6,1.0
+north american,P51 D,0.2,1.0
+north american,P51D,0.6,1.0
+north american,SNJ,0.0,5.0
+north american,SNJ 2,0.39999999999999997,6.0
+north american,SNJ 4,0.1,5.0
+north american,SNJ 4 (AT 6),0.05,1.0
+north american,SNJ 5,0.255,20.0
+north american,SNJ 5B,0.0,1.0
+north american,SNJ 5C,0.6,1.0
+north american,SNJ 6,0.08571428571428572,7.0
+north american,SNJ 6B,0.05,1.0
+north american,T 28A,0.20714285714285713,7.0
+north american,T 28B,0.29062499999999997,16.0
+north american,T 28C,0.31666666666666665,9.0
+north american,T 28D,0.0,2.0
+north american,T 39A,0.0,1.0
+north american,T 6,0.0,1.0
+north american,T 6 AT6D,0.6,1.0
+north american,T 6 G,0.0,1.0
+north american,T 6 SNJ 5,0.6,1.0
+north american,T 6 SNJ5,0.6,1.0
+north american,T 6G,0.21470588235294116,17.0
+north american,T 6G NA,0.6,1.0
+north american,T28,0.17777777777777778,3.0
+north american,T28A,0.35,1.0
+north american,T28B,0.3,2.0
+north american,T28C,0.3,2.0
+north american,T6,0.6,1.0
+north american,T6 G,0.175,2.0
+north american,T6G,0.0,2.0
+north american,TB 25N,0.0,2.0
+piper,180,0.053314350797266506,439.0
+piper,20,0.020000000000000004,2.0
+piper,22,0.0,1.0
+piper,28,0.0,1.0
+piper,28 140,0.2,1.0
+piper,28R,0.0,1.0
+piper,34 200T,0.0,1.0
+piper,38 112,0.0,1.0
+piper,46 310P,0.0,1.0
+piper,601P,0.34285714285714286,7.0
+piper,602P,0.0,1.0
+piper,AEROSTAR 6,0.0,1.0
+piper,AEROSTAR 600,0.35,2.0
+piper,AEROSTAR 601,0.5041666666666667,2.0
+piper,AEROSTAR 601P,0.2,9.0
+piper,AEROSTAR 602P,0.3,4.0
+piper,E2,0.0,1.0
+piper,J 2,0.075,4.0
+piper,J 3,0.10781249999999999,32.0
+piper,J 3 C,0.05,1.0
+piper,J 3 C65,0.3,2.0
+piper,J 3 CUB,0.0,1.0
+piper,J 3C,0.17499999999999996,6.0
+piper,J 3C 115,0.0,1.0
+piper,J 3C 65,0.025,4.0
+piper,J 3C 85,0.6,1.0
+piper,J 3F 65,0.1,1.0
+piper,J 3L 65,0.6,1.0
+piper,J 4A,0.3222222222222222,3.0
+piper,J 4E,0.2,1.0
+piper,J 5,0.025,2.0
+piper,J 5A,0.17499999999999996,6.0
+piper,J2,0.6,1.0
+piper,J3,0.04736842105263158,19.0
+piper,J3 C 65,0.05,2.0
+piper,J3 C65,0.095,10.0
+piper,J3C,0.13374999999999998,40.0
+piper,J3C 50,0.1,1.0
+piper,J3C 65,0.13679245283018868,159.0
+piper,J3C 85,0.4125,4.0
+piper,J3C 90,0.4,2.0
+piper,J3F,0.0,1.0
+piper,J3F 60,0.0,1.0
+piper,J3F 65,0.12857142857142856,7.0
+piper,J3L,0.03333333333333333,3.0
+piper,J3L 65,0.17142857142857143,7.0
+piper,J4,0.0,2.0
+piper,J4/E,0.0,1.0
+piper,J4A,0.075,4.0
+piper,J4E,0.0,1.0
+piper,J5,0.3,2.0
+piper,J5 A,0.0,1.0
+piper,J5 C,0.0,1.0
+piper,J5 CUB,0.0,1.0
+piper,J5A,0.10681818181818183,22.0
+piper,J5A L4F,0.0,1.0
+piper,J5C,0.058333333333333334,4.0
+piper,L 18C,0.0,1.0
+piper,L 21A,0.6,2.0
+piper,L 21B,0.1,4.0
+piper,L 3,0.6,1.0
+piper,L 4,0.0,1.0
+piper,L21,0.0,1.0
+piper,OA25 235,0.0,1.0
+piper,P46T,0.0,1.0
+piper,PA,0.0,2.0
+piper,PA 11,0.13658536585365852,41.0
+piper,PA 11S,0.0,2.0
+piper,PA 12,0.0984732824427481,262.0
+piper,PA 12 108,0.1,1.0
+piper,PA 12 150,0.22999999999999998,5.0
+piper,PA 14,0.09942528735632183,29.0
+piper,PA 15,0.14615384615384613,13.0
+piper,PA 16,0.10657894736842105,38.0
+piper,PA 17,0.03636363636363636,11.0
+piper,PA 18,0.07512820512820512,390.0
+piper,PA 18 105,0.03636363636363637,11.0
+piper,PA 18 105 SPECIAL,0.11666666666666664,9.0
+piper,PA 18 125,0.25,10.0
+piper,PA 18 135,0.1350877192982456,57.0
+piper,PA 18 150,0.10177083333333334,480.0
+piper,PA 18 160,0.028333333333333332,30.0
+piper,PA 18 18,0.0,1.0
+piper,PA 18 180,0.05357142857142857,14.0
+piper,PA 18 225 DD,0.0,1.0
+piper,PA 18 A 150,0.0,1.0
+piper,PA 18 L21B,0.0,1.0
+piper,PA 18A,0.15902777777777777,36.0
+piper,PA 18A 135,0.0,4.0
+piper,PA 18A 150,0.08977272727272727,44.0
+piper,PA 18A 180,0.1,1.0
+piper,PA 18AS,0.6,1.0
+piper,PA 18S 150,0.0,1.0
+piper,PA 19,0.0,2.0
+piper,PA 20,0.033888888888888885,90.0
+piper,PA 20 125,0.0,1.0
+piper,PA 20 135,0.24285714285714285,7.0
+piper,PA 20 160,0.0,1.0
+piper,PA 20 180,0.3,1.0
+piper,PA 20/22,0.0,1.0
+piper,PA 20S,0.0,1.0
+piper,PA 22,0.05394056847545219,129.0
+piper,PA 22 (20),0.0,1.0
+piper,PA 22 108,0.10967741935483871,62.0
+piper,PA 22 108/U,0.1,1.0
+piper,PA 22 125,0.0,1.0
+piper,PA 22 135,0.1671383647798742,53.0
+piper,PA 22 150,0.08597449908925318,183.0
+piper,PA 22 160,0.08333333333333333,76.0
+piper,PA 22 161,0.03333333333333333,1.0
+piper,PA 22 180,0.0,2.0
+piper,PA 22 20,0.05000000000000001,6.0
+piper,PA 22 20 108,0.0,1.0
+piper,PA 22 20 150,0.0,2.0
+piper,PA 22/20,0.03333333333333333,9.0
+piper,PA 22/20 150,0.0,2.0
+piper,PA 22T,0.0,1.0
+piper,PA 22\20,0.0,1.0
+piper,PA 23,0.22839506172839505,27.0
+piper,PA 23 150,0.24382716049382716,27.0
+piper,PA 23 160,0.21020408163265303,49.0
+piper,PA 23 180,0.33749999999999997,4.0
+piper,PA 23 235,0.3,2.0
+piper,PA 23 250,0.2425055928411633,149.0
+piper,PA 23 250B,0.1,1.0
+piper,PA 23C 250,0.0,1.0
+piper,PA 23E 250,0.6,1.0
+piper,PA 24,0.13541666666666666,48.0
+piper,PA 24 180,0.19557291666666665,64.0
+piper,PA 24 250,0.19329710144927534,230.0
+piper,PA 24 260,0.2047008547008547,78.0
+piper,PA 24 260B,0.0,3.0
+piper,PA 24 260C,0.3,2.0
+piper,PA 24 400,0.19090909090909092,11.0
+piper,PA 24B 260,0.6,1.0
+piper,PA 25,0.23199999999999998,25.0
+piper,PA 25 150,0.225,6.0
+piper,PA 25 151,0.0,1.0
+piper,PA 25 180,0.0,2.0
+piper,PA 25 225,0.0,1.0
+piper,PA 25 235,0.15594405594405594,143.0
+piper,PA 25 235/250,0.3,1.0
+piper,PA 25 235A,0.0,1.0
+piper,PA 25 235C,0.3,4.0
+piper,PA 25 235D,0.0,1.0
+piper,PA 25 260,0.18148148148148147,27.0
+piper,PA 25 260D,0.3,1.0
+piper,PA 25C 235,0.0,1.0
+piper,PA 28,0.08998226950354611,94.0
+piper,PA 28 121,0.0,1.0
+piper,PA 28 140,0.16458961474036848,597.0
+piper,PA 28 140B,0.05333333333333333,5.0
+piper,PA 28 140D,0.07500000000000001,2.0
+piper,PA 28 150,0.08529411764705883,17.0
+piper,PA 28 151,0.1404471544715447,123.0
+piper,PA 28 160,0.18886178861788616,41.0
+piper,PA 28 161,0.11178474114441417,367.0
+piper,PA 28 180,0.18628618693134824,403.0
+piper,PA 28 180C,0.037500000000000006,4.0
+piper,PA 28 180D,0.3875,4.0
+piper,PA 28 181,0.15964705882352942,340.0
+piper,PA 28 200,0.19,5.0
+piper,PA 28 200R,0.025,4.0
+piper,PA 28 201,0.0,1.0
+piper,PA 28 201R,0.0,1.0
+piper,PA 28 201RT,0.0,1.0
+piper,PA 28 201T,0.18181818181818182,11.0
+piper,PA 28 210T,0.3,1.0
+piper,PA 28 235,0.1758606557377049,122.0
+piper,PA 28 235C,0.0,1.0
+piper,PA 28 235D,0.6,1.0
+piper,PA 28 236,0.19962121212121212,44.0
+piper,PA 28 280,0.0,1.0
+piper,PA 28 R 180,0.0,1.0
+piper,PA 28 R200,0.19999999999999998,3.0
+piper,PA 28 RT201,0.6,1.0
+piper,PA 28A 180C,0.0,1.0
+piper,PA 28C 235,0.0,1.0
+piper,PA 28D 180,0.0,1.0
+piper,PA 28R,0.09411764705882353,17.0
+piper,PA 28R 180,0.2445098039215686,85.0
+piper,PA 28R 200,0.18288432267884322,219.0
+piper,PA 28R 201,0.13893939393939395,55.0
+piper,PA 28R 201T,0.15390070921985816,47.0
+piper,PA 28R 210T,0.0,1.0
+piper,PA 28R201T,0.0,1.0
+piper,PA 28RT,0.3,2.0
+piper,PA 28RT 201,0.2292929292929293,33.0
+piper,PA 28RT 201T,0.17716049382716048,27.0
+piper,PA 3,0.05,1.0
+piper,PA 30,0.2094375,160.0
+piper,PA 30 160,0.175,4.0
+piper,PA 30 30,0.0,1.0
+piper,PA 30 39,0.0,1.0
+piper,PA 30 B,0.15,2.0
+piper,PA 30/A,0.2333333333333333,1.0
+piper,PA 30B,0.17857142857142858,7.0
+piper,PA 30B 160,0.05,1.0
+piper,PA 30K,0.1,1.0
+piper,PA 31,0.17211538461538461,26.0
+piper,PA 31 310,0.15436507936507934,21.0
+piper,PA 31 325,0.26416666666666666,12.0
+piper,PA 31 350,0.14500134062634062,148.0
+piper,PA 31 B 310,0.1,1.0
+piper,PA 31 NAVAJO,0.6,1.0
+piper,PA 31 T1,0.3,2.0
+piper,PA 31 T1040,0.0,1.0
+piper,PA 31 T2,0.6,1.0
+piper,PA 31 T3,0.048888888888888885,5.0
+piper,PA 31B 310,0.6,1.0
+piper,PA 31P,0.3526315789473684,19.0
+piper,PA 31P 350,0.19999999999999998,3.0
+piper,PA 31T,0.29849747474747473,24.0
+piper,PA 31T 620,0.0,1.0
+piper,PA 31T II,0.3,2.0
+piper,PA 31T1,0.25384615384615383,13.0
+piper,PA 31T2,0.6,3.0
+piper,PA 31T3,0.22499999999999998,2.0
+piper,"PA 31T3, T1040",0.6,1.0
+piper,PA 32,0.183578431372549,34.0
+piper,PA 32 260,0.2119871794871795,130.0
+piper,PA 32 260,0.6,1.0
+piper,PA 32 300,0.15621594684385381,215.0
+piper,PA 32 300D,0.3,1.0
+piper,PA 32 300R,0.6,1.0
+piper,PA 32 300RT,0.0,1.0
+piper,PA 32 300T,0.0,1.0
+piper,PA 32 301,0.14372340425531915,47.0
+piper,PA 32 301R,0.3,1.0
+piper,PA 32 301T,0.17272727272727273,11.0
+piper,PA 32 301XTC,0.0,1.0
+piper,PA 32 R 300,0.0,1.0
+piper,PA 32 R 301T,0.0,1.0
+piper,PA 32 R300,0.0,1.0
+piper,PA 32 RT 300,0.0,1.0
+piper,PA 32 RT300,0.49999999999999994,1.0
+piper,PA 32C 300,0.6,1.0
+piper,PA 32R,0.061403508771929814,19.0
+piper,PA 32R 300,0.24237288135593218,118.0
+piper,PA 32R 301,0.26047169811320753,53.0
+piper,PA 32R 301T,0.2637096774193548,62.0
+piper,PA 32RT,0.16333333333333333,4.0
+piper,PA 32RT 200,0.0,1.0
+piper,PA 32RT 300,0.2346014492753623,46.0
+piper,PA 32RT 300T,0.24637681159420288,46.0
+piper,PA 32RT 301T,0.1,1.0
+piper,PA 32RT/300T,0.6,1.0
+piper,PA 32S 300,0.3,2.0
+piper,PA 34,0.0044444444444444444,15.0
+piper,PA 34 200,0.10420398009950249,67.0
+piper,PA 34 200T,0.19072530864197532,108.0
+piper,PA 34 220T,0.15018939393939393,44.0
+piper,PA 34 R200,0.025,1.0
+piper,PA 36,0.025,4.0
+piper,PA 36 200,0.0,1.0
+piper,PA 36 285,0.14285714285714285,21.0
+piper,PA 36 300,0.1411764705882353,17.0
+piper,PA 36 375,0.17272727272727273,11.0
+piper,PA 36 400,0.05,2.0
+piper,PA 38,0.0725,20.0
+piper,PA 38 112,0.1292513368983957,187.0
+piper,PA 38 125,0.6,1.0
+piper,PA 39,0.15,6.0
+piper,PA 42,0.3,4.0
+piper,PA 42 720,0.0,1.0
+piper,PA 44,0.15,6.0
+piper,PA 44 180,0.15233333333333332,75.0
+piper,PA 44 180T,0.0,4.0
+piper,PA 46,0.08240740740740742,18.0
+piper,PA 46 301P,0.04000000000000001,1.0
+piper,PA 46 310,0.0,2.0
+piper,PA 46 310P,0.25674829931972787,70.0
+piper,PA 46 350,0.19999999999999998,2.0
+piper,PA 46 350P,0.18183168316831683,101.0
+piper,PA 46 500TP,0.17647058823529413,17.0
+piper,PA 46 600TP,0.0,1.0
+piper,PA 46/JETPROP,0.0,1.0
+piper,PA 46T,0.0,2.0
+piper,PA 46T 350P,0.0,1.0
+piper,PA 60,0.175,4.0
+piper,PA 60 600,0.45,6.0
+piper,PA 60 601,0.0,1.0
+piper,PA 60 601A,0.0,1.0
+piper,PA 60 601P,0.35777777777777775,12.0
+piper,PA 60 602P,0.27291666666666664,12.0
+piper,PA 60 700P,0.006666666666666668,3.0
+piper,PA 601,0.0,1.0
+piper,PA 601P,0.3,6.0
+piper,PA 602P,0.0,1.0
+piper,PA 61 601P,0.6,1.0
+piper,PA J3 C65,0.0,1.0
+piper,PA J3C,0.1,1.0
+piper,PA J3C 65,0.6,1.0
+piper,PA12,0.0,2.0
+piper,PA16,0.0,1.0
+piper,PA17,0.3,1.0
+piper,PA18,0.05941176470588235,85.0
+piper,PA18 135,0.6,1.0
+piper,PA18 150,0.0375,8.0
+piper,PA18 160,0.0,2.0
+piper,PA18 50,0.3,1.0
+piper,PA18A,0.3,1.0
+piper,PA18A 150,0.375,2.0
+piper,PA18S,0.09999999999999999,3.0
+piper,PA19,0.05,1.0
+piper,PA19/L 18C,0.3,1.0
+piper,PA20,0.0,1.0
+piper,PA20 UNDESIGNAT,0.0,1.0
+piper,PA22,0.10111111111111111,45.0
+piper,PA22 135,0.1,1.0
+piper,PA22 150,0.125,8.0
+piper,PA22 160,0.1,1.0
+piper,PA22 20,0.0,1.0
+piper,PA22/135,0.0,1.0
+piper,PA22/20,0.0,1.0
+piper,PA23,0.1863095238095238,14.0
+piper,PA23 150,0.0,1.0
+piper,PA23 160,0.0,1.0
+piper,PA23 250,0.075,4.0
+piper,PA24,0.14662162162162162,37.0
+piper,PA24 180,0.05,2.0
+piper,PA24 250,0.12142857142857143,7.0
+piper,PA24 260,0.0,3.0
+piper,PA25,0.3,5.0
+piper,PA25 235,0.0,1.0
+piper,PA25 260,0.0,1.0
+piper,PA28,0.13851351351351351,222.0
+piper,PA28 140,0.18680555555555556,24.0
+piper,PA28 150,0.0,1.0
+piper,PA28 151,0.06333333333333334,15.0
+piper,PA28 160,0.0,1.0
+piper,PA28 160B,0.1,1.0
+piper,PA28 161,0.155,10.0
+piper,PA28 180,0.13214285714285715,7.0
+piper,PA28 180F,0.1,1.0
+piper,PA28 181,0.2333333333333333,6.0
+piper,PA28 200,0.3,2.0
+piper,PA28 201T,0.19999999999999998,3.0
+piper,PA28 235,0.037500000000000006,4.0
+piper,PA28 236,0.3,4.0
+piper,PA28 400,0.0,1.0
+piper,PA28 R 200,0.0,1.0
+piper,PA28A,0.0,1.0
+piper,PA28R,0.13483333333333333,50.0
+piper,PA28R 180,0.44999999999999996,3.0
+piper,PA28R 200,0.11458333333333333,8.0
+piper,PA28R 201,0.0,2.0
+piper,PA28R 201T,0.0,1.0
+piper,PA28RT,0.05,2.0
+piper,PA28RT 201T,0.6,1.0
+piper,PA30,0.22000000000000003,10.0
+piper,PA30 NO SERIES,0.27499999999999997,2.0
+piper,PA31,0.22066666666666668,15.0
+piper,PA31 310,0.0,1.0
+piper,PA31 325,0.6,1.0
+piper,PA31 350,0.6,1.0
+piper,PA31T,0.6,2.0
+piper,PA32,0.155188679245283,53.0
+piper,PA32 260,0.06666666666666667,3.0
+piper,PA32 300,0.16428571428571428,8.0
+piper,PA32 300D,0.6,1.0
+piper,PA32 301,0.0,2.0
+piper,PA32 301FT,0.02,5.0
+piper,PA32 301T,0.0,1.0
+piper,PA32 301XTC,0.0,1.0
+piper,PA32 R 301T,0.15000000000000002,1.0
+piper,PA32R,0.20833333333333334,30.0
+piper,PA32R 300,0.3,2.0
+piper,PA32R 301,0.475,2.0
+piper,PA32RT,0.1875,16.0
+piper,PA32RT 300,0.325,2.0
+piper,PA32RT 300T,0.6,1.0
+piper,PA34,0.2375,20.0
+piper,PA34 200,0.0125,2.0
+piper,PA34 200T,0.3,3.0
+piper,PA36,0.03333333333333333,3.0
+piper,PA36 400,0.1,1.0
+piper,PA38,0.1464285714285714,14.0
+piper,PA38 112,0.41999999999999993,5.0
+piper,PA42,0.0,1.0
+piper,PA44,0.15,4.0
+piper,PA46,0.15533333333333335,45.0
+piper,PA46 310P,0.0,3.0
+piper,PA46 350P,0.3,4.0
+piper,PA46 500TP,0.26666666666666666,18.0
+piper,PA46R,0.09999999999999999,3.0
+piper,PA46R 350T,0.12,5.0
+piper,PA60,0.2571428571428571,7.0
+piper,PA60 601P,0.0,1.0
+piper,PA60 602P,0.3,2.0
+piper,PA60 700P,0.0,1.0
+piper,PA601P,0.0,1.0
+piper,PA=31 350,0.5666666666666667,1.0
+piper,PT 46,0.0,1.0
+piper,SARATOGA II TC PA32,0.0,1.0
+piper,SENECA,0.025,2.0
+rockwell,100,0.14595959595959596,33.0
+rockwell,112,0.3125,20.0
+rockwell,112 TC,0.1,1.0
+rockwell,112 TCA,0.6,1.0
+rockwell,112A,0.09523809523809523,14.0
+rockwell,112B,0.0875,4.0
+rockwell,112TC,0.0846153846153846,13.0
+rockwell,112TCA,0.041666666666666664,6.0
+rockwell,112YC,0.0,1.0
+rockwell,114,0.18166666666666667,21.0
+rockwell,114A,0.15,2.0
+rockwell,500,0.21739130434782608,23.0
+rockwell,500 S,0.07380952380952381,12.0
+rockwell,500S,0.29,10.0
+rockwell,500U,0.15,2.0
+rockwell,680 E,0.2,2.0
+rockwell,681,0.3,2.0
+rockwell,685,0.09444444444444444,6.0
+rockwell,690,0.1125,12.0
+rockwell,690 A,0.6,1.0
+rockwell,690A,0.3102941176470588,17.0
+rockwell,690B,0.32254901960784316,17.0
+rockwell,690C,0.13333333333333333,9.0
+rockwell,700,0.0375,2.0
+rockwell,AC 112,0.0,1.0
+rockwell,AC 690,0.0,3.0
+rockwell,AC 690B,0.6,1.0
+rockwell,AERO COMMANDER 112TC,0.44999999999999996,1.0
+rockwell,AERO COMMANDER 500,0.0,1.0
+rockwell,COMMANDER 112,0.1,1.0
+rockwell,COMMANDER 114,0.26249999999999996,2.0
+rockwell,GA 112TC,0.6,1.0
+rockwell,NA 265 65,0.24,5.0
+rockwell,NA 265 80,0.13124999999999998,8.0
+rockwell,OV 10A,0.6,2.0
+rockwell,S 2D,0.1,1.0
+rockwell,S 2R,0.12142857142857143,105.0
+rockwell,S 2R 1200,0.6,1.0
+rockwell,S 2R THRUSH,0.1,1.0
+rockwell,S2 R,0.15,4.0
+rockwell,S2R,0.09427083333333332,96.0
+rockwell,S2R 600,0.07777777777777778,9.0
+rockwell,S2R R1340,0.3,2.0
+rockwell,S2R R3S,0.0,1.0
+rockwell,S2R THRUSH CMDR,0.0,1.0
+schweizer,269 C,0.0,2.0
+schweizer,269 C1,0.0,1.0
+schweizer,269B,0.10178571428571428,28.0
+schweizer,269C,0.12465277777777778,144.0
+schweizer,269C 1,0.078125,16.0
+schweizer,269D,0.030000000000000006,5.0
+schweizer,300C,0.10000000000000002,8.0
+schweizer,G 164,0.08442622950819673,61.0
+schweizer,G 164 A,0.0,6.0
+schweizer,G 164 B,0.025,4.0
+schweizer,G 164A,0.0721784776902887,254.0
+schweizer,G 164A 450,0.1,1.0
+schweizer,G 164B,0.08697183098591549,284.0
+schweizer,G 164B 600,0.0,1.0
+schweizer,G 164C,0.05714285714285714,14.0
+schweizer,G 164D,0.14166666666666666,6.0
+schweizer,G164,0.10588235294117647,34.0
+schweizer,G164B,0.038235294117647055,17.0
+schweizer,G164D,0.05,2.0
+schweizer,G167B,0.0,1.0
+schweizer,GRUMMAN G 164A,0.0,1.0
+schweizer,H 300,0.0,1.0
+schweizer,HUGHES 269C,0.0,2.0
+schweizer,SA 2 37A,0.6,1.0
+stinson,10,0.0,1.0
+stinson,10 A,0.6,1.0
+stinson,108,0.10255555555555555,75.0
+stinson,108 1,0.06547619047619048,56.0
+stinson,108 2,0.09935897435897437,52.0
+stinson,108 3,0.07397260273972603,73.0
+stinson,108 8,0.0,1.0
+stinson,10A,0.0,3.0
+stinson,AT 19,0.05,2.0
+stinson,HW75,0.0,1.0
+stinson,JR. S,0.09999999999999999,1.0
+stinson,JR. SR,0.075,1.0
+stinson,JR.SR.,0.0,1.0
+stinson,L 5,0.13333333333333333,6.0
+stinson,L 5B,0.05,1.0
+stinson,L 5E,0.03333333333333333,3.0
+stinson,L 5G,0.0,2.0
+stinson,L5,0.0,1.0
+stinson,SR 10E,0.0,1.0
+stinson,SR 5A,0.0,1.0
+stinson,SR 5E,0.0,1.0
+stinson,SR 6A,0.0,1.0
+stinson,SR 7B,0.1,1.0
+stinson,SR 8B,0.0,2.0
+stinson,SR 8E,0.0,1.0
+stinson,SR 9B,0.3,1.0
+stinson,SR8C,0.1,1.0
+stinson,SR9,0.0,2.0
+stinson,ST 108 2,0.05,1.0
+stinson,ST 75,0.0,2.0
+stinson,V77,0.0,5.0
+taylorcraft,12 M,0.3,1.0
+taylorcraft,15A,0.03333333333333333,2.0
+taylorcraft,19,0.0071428571428571435,14.0
+taylorcraft,20,0.020000000000000004,2.0
+taylorcraft,BC,0.0,1.0
+taylorcraft,BC 12,0.16666666666666666,3.0
+taylorcraft,BC 12 D,0.43333333333333335,3.0
+taylorcraft,BC 12D,0.1525,20.0
+taylorcraft,BC 65,0.2222222222222222,9.0
+taylorcraft,BC D,0.0,1.0
+taylorcraft,BC/2D,0.05,1.0
+taylorcraft,BC12,0.13333333333333333,9.0
+taylorcraft,BC12 65,0.15416666666666665,12.0
+taylorcraft,BC12 D,0.15535714285714283,84.0
+taylorcraft,BC12 D1,0.21666666666666665,6.0
+taylorcraft,BC12D,0.0625,8.0
+taylorcraft,BC12D 4 85,0.0,1.0
+taylorcraft,BC12D 85,0.1,2.0
+taylorcraft,BCS 65,0.05,2.0
+taylorcraft,BCS12 D,0.1,1.0
+taylorcraft,BF12,0.4,2.0
+taylorcraft,BL,0.3,2.0
+taylorcraft,BL 65,0.16666666666666666,9.0
+taylorcraft,BL12,0.6,1.0
+taylorcraft,DC 65,0.14285714285714285,7.0
+taylorcraft,DC12 D,0.0,1.0
+taylorcraft,DCO 65,0.1875,16.0
+taylorcraft,DCO 75,0.6,1.0
+taylorcraft,F 19,0.10357142857142856,14.0
+taylorcraft,F 21,0.0,1.0
+taylorcraft,F19,0.08461538461538462,13.0
+taylorcraft,F21,0.0,2.0
+taylorcraft,F21B,0.03333333333333333,3.0
+taylorcraft,H 2,0.3,1.0
+taylorcraft,J 2,0.075,4.0
+taylorcraft,L 2M,0.0,1.0
+taylorcraft,L2A,0.0,1.0
+taylorcraft,L2B,0.1,1.0
+taylorcraft,TC 19,0.0,1.0
+taylorcraft,TC19,0.0,1.0
+waco,10 GXE,0.0,1.0
+waco,4MF 5,0.0,1.0
+waco,AGC 8,0.0,1.0
+waco,AQC 6,0.0,1.0
+waco,ARE,0.0,1.0
+waco,ASO,0.12666666666666665,5.0
+waco,ATO,0.1,1.0
+waco,AVN 8,0.1,1.0
+waco,CTO,0.06,5.0
+waco,DSO,0.0,1.0
+waco,EQC 6,0.0,1.0
+waco,GXE,0.0,3.0
+waco,KNF,0.0,3.0
+waco,QCF,0.15,4.0
+waco,QCF 2,0.0,1.0
+waco,RBA,0.0,1.0
+waco,RNF,0.1,1.0
+waco,SRE,0.03333333333333333,3.0
+waco,U1 C,0.0,1.0
+waco,UBF,0.0,1.0
+waco,UIC,0.0,2.0
+waco,UKC S,0.0,1.0
+waco,UKS 7,0.0,1.0
+waco,UPF 7,0.10994623655913978,31.0
+waco,UPF7,0.0,4.0
+waco,WMF,0.0,1.0
+waco,WMF 5,0.0,1.0
+waco,YKC,0.0,1.0
+waco,YKS 7,0.0,3.0
+waco,YMF,0.024999999999999998,4.0
+waco,YMF 3,0.0,1.0
+waco,YMF 5,0.07708333333333334,8.0
+waco,YMF 5C,0.0,1.0
+waco,YMF F5C,0.09999999999999999,2.0
+waco,YMF FSC,0.0,1.0
+waco,YMF5,0.0,2.0
+waco,YMS,0.0,1.0
+waco,YOC,0.0,1.0
+waco,YPF 7,0.05,2.0
