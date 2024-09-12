@@ -1,28 +1,28 @@
 Make,Model,Mean_Risk_Index,Model_Total_Accidents,Plane_Size
-aero commander,100,0.14595959595959598,33.0,Small
+aero commander,100,0.15416666666666665,28.0,Small
 aero commander,100 180,0.08750000000000001,12.0,Small
-aero commander,112,0.3125,20.0,Small
-aero commander,112A,0.09523809523809523,14.0,Small
+aero commander,112,0.2846153846153846,13.0,Small
+aero commander,112A,0.15,2.0,Small
 aero commander,114 B,0.3,1.0,Small
 aero commander,114B,0.6,1.0,Small
 aero commander,200D,0.12727272727272726,11.0,Small
-aero commander,500,0.21739130434782608,23.0,Small
+aero commander,500,0.12,5.0,Small
 aero commander,500 A,0.0,1.0,Small
 aero commander,500 B,0.2846153846153846,13.0,Small
-aero commander,500 S,0.07380952380952381,12.0,Small
+aero commander,500 S,0.14761904761904762,6.0,Small
 aero commander,500A,0.6,3.0,Small
-aero commander,500B,0.38055555555555554,9.0,Small
-aero commander,500S,0.29,10.0,Small
-aero commander,500U,0.15,2.0,Small
+aero commander,500B,0.390625,8.0,Small
+aero commander,500S,0.2875,8.0,Small
+aero commander,500U,0.3,1.0,Small
 aero commander,520,0.2,1.0,Small
-aero commander,560,0.2875,20.0,Small
+aero commander,560,0.39999999999999997,3.0,Small
 aero commander,560 F,0.6,3.0,Small
 aero commander,560A,0.44999999999999996,1.0,Small
 aero commander,560E,0.05,2.0,Small
 aero commander,560F,0.3,2.0,Small
-aero commander,600,0.08333333333333333,2.0,Small
-aero commander,680,0.18333333333333335,6.0,Small
-aero commander,680 E,0.2,2.0,Small
+aero commander,600,0.0,1.0,Small
+aero commander,680,0.275,4.0,Small
+aero commander,680 E,0.1,1.0,Small
 aero commander,680 F,0.0,2.0,Small
 aero commander,680 FL,0.2333333333333333,1.0,Small
 aero commander,680 FPL,0.6,1.0,Small
@@ -30,18 +30,18 @@ aero commander,680E,0.39999999999999997,3.0,Small
 aero commander,680FL,0.6,3.0,Small
 aero commander,680FLP,0.025,1.0,Small
 aero commander,680V,0.6,1.0,Small
-aero commander,681,0.3,2.0,Small
-aero commander,685,0.09444444444444444,6.0,Small
-aero commander,690,0.1125,12.0,Small
-aero commander,690A,0.3102941176470588,17.0,Small
-aero commander,690B,0.32254901960784316,17.0,Small
+aero commander,681,0.6,1.0,Small
+aero commander,685,0.11333333333333333,5.0,Small
+aero commander,690,0.021428571428571432,7.0,Small
+aero commander,690A,0.3020833333333333,12.0,Small
+aero commander,690B,0.6,1.0,Small
 aero commander,695,0.0,1.0,Small
-aero commander,700,0.0375,2.0,Small
+aero commander,700,0.0,1.0,Small
 aero commander,AC 100,0.0,1.0,Small
 aero commander,AC 100 180,0.3,1.0,Small
 aero commander,AC 500A,0.6,1.0,Small
 aero commander,AC 500B,0.0,1.0,Small
-aero commander,AC 690,0.0,3.0,Small
+aero commander,AC 690,0.0,1.0,Small
 aero commander,AC200D (MEYERS),0.49999999999999994,1.0,Small
 aero commander,AC50,0.0,1.0,Small
 aero commander,CALAIR A 9B,0.44999999999999996,2.0,Small
@@ -50,9 +50,9 @@ aero commander,CALLAIR,0.6,1.0,Small
 aero commander,CALLAIR A 9,0.3,3.0,Small
 aero commander,CALLAIR A 9B,0.13,10.0,Small
 aero commander,GA 500 B,0.0,1.0,Small
-aero commander,S 2R,0.12142857142857143,105.0,Small
-aero commander,S2R,0.09427083333333332,96.0,Small
-aero commander,S2R T34,0.17777777777777776,36.0,Small
+aero commander,S 2R,0.6,3.0,Small
+aero commander,S2R,0.1,45.0,Small
+aero commander,S2R T34,0.0,1.0,Small
 aero commander,S2R THRUSH,0.0,1.0,Small
 aero commander,ST R,0.3,1.0,Small
 aeronca,0 58A,0.0,1.0,Small
@@ -64,7 +64,7 @@ aeronca,11BC,0.08499999999999999,10.0,Small
 aeronca,11CC,0.05833333333333333,6.0,Small
 aeronca,15AC,0.06304347826086956,23.0,Small
 aeronca,58B,0.1,1.0,Small
-aeronca,65,0.28214285714285714,14.0,Small
+aeronca,65,0.1,1.0,Small
 aeronca,65 C,0.1375,4.0,Small
 aeronca,65 CA,0.375,6.0,Small
 aeronca,65 LB,0.0,3.0,Small
@@ -77,18 +77,18 @@ aeronca,65C,0.0,1.0,Small
 aeronca,65CA,0.05,4.0,Small
 aeronca,7 AC,0.09999999999999999,3.0,Small
 aeronca,7 EC,0.0,2.0,Small
-aeronca,7AC,0.12513736263736264,182.0,Small
+aeronca,7AC,0.12485294117647057,170.0,Small
 aeronca,7AC CONV,0.0,1.0,Small
 aeronca,7AC EC,0.0,1.0,Small
 aeronca,7BC,0.0,1.0,Small
-aeronca,7BCM,0.1318181818181818,33.0,Small
+aeronca,7BCM,0.13035714285714287,28.0,Small
 aeronca,7BCM (L 16A),0.6,1.0,Small
 aeronca,7CCM,0.10769230769230768,13.0,Small
 aeronca,7CCM 200,0.0,1.0,Small
 aeronca,7DC,0.09666666666666666,15.0,Small
 aeronca,7DC CONV,0.0,1.0,Small
-aeronca,7EC,0.13478260869565217,46.0,Small
-aeronca,7FC,0.10000000000000002,26.0,Small
+aeronca,7EC,0.05714285714285714,14.0,Small
+aeronca,7FC,0.06666666666666667,3.0,Small
 aeronca,7JC,0.0,1.0,Small
 aeronca,AC7B,0.2,1.0,Small
 aeronca,AR 15,0.0,1.0,Small
@@ -126,15 +126,15 @@ aerospatiale,350B,0.0,1.0,Small
 aerospatiale,350D,0.49999999999999994,1.0,Small
 aerospatiale,355,0.3,1.0,Small
 aerospatiale,AS 332L,0.0,1.0,Small
-aerospatiale,AS 350,0.05000000000000001,4.0,Small
+aerospatiale,AS 350,0.06666666666666667,3.0,Small
 aerospatiale,AS 350 B,0.03809523809523809,3.0,Small
 aerospatiale,AS 350 B2,0.1013888888888889,3.0,Small
-aerospatiale,AS 350 B3,0.1111111111111111,3.0,Small
+aerospatiale,AS 350 B3,0.03333333333333333,1.0,Small
 aerospatiale,AS 350 BA,0.04000000000000001,2.0,Small
 aerospatiale,AS 350B,0.2928571428571428,7.0,Small
 aerospatiale,AS 350B 2,0.3,1.0,Small
 aerospatiale,AS 350B1,0.54,1.0,Small
-aerospatiale,AS 350B2,0.0,2.0,Small
+aerospatiale,AS 350B2,0.0,1.0,Small
 aerospatiale,AS 350BA,0.175,4.0,Small
 aerospatiale,AS 350BII,0.3,1.0,Small
 aerospatiale,AS 350D,0.24571428571428572,5.0,Small
@@ -144,12 +144,12 @@ aerospatiale,AS 355 F1,0.0,2.0,Small
 aerospatiale,AS 355F1,0.3,2.0,Small
 aerospatiale,AS315B,0.1,1.0,Small
 aerospatiale,AS350 B,0.0,1.0,Small
-aerospatiale,AS350 B3,0.3583333333333334,2.0,Small
+aerospatiale,AS350 B3,0.2,1.0,Small
 aerospatiale,AS350 BA,0.0,1.0,Small
 aerospatiale,AS350 BH,0.0,1.0,Small
 aerospatiale,AS350 D,0.0,1.0,Small
 aerospatiale,AS350B,0.17238095238095238,11.0,Small
-aerospatiale,AS350B3,0.0,2.0,Small
+aerospatiale,AS350B3,0.0,1.0,Small
 aerospatiale,AS350BA,0.1349206349206349,9.0,Small
 aerospatiale,AS350D,0.18571428571428572,3.0,Small
 aerospatiale,AS350D ASTAR,0.5249999999999999,1.0,Small
@@ -182,39 +182,39 @@ aerospatiale,TB21,0.0,1.0,Small
 air tractor,301,0.07777777777777778,9.0,Small
 air tractor,301 300,0.0,1.0,Small
 air tractor,301A,0.15,2.0,Small
-air tractor,400,0.18,10.0,Small
-air tractor,401,0.175,18.0,Small
+air tractor,400,0.1,1.0,Small
+air tractor,401,0.0,1.0,Small
 air tractor,401 0860,0.0,1.0,Small
-air tractor,401B,0.11875,4.0,Small
-air tractor,402,0.10238095238095238,28.0,Small
-air tractor,402A,0.10714285714285714,13.0,Small
-air tractor,402B,0.195,55.0,Small
+air tractor,401B,0.3,1.0,Small
+air tractor,402,0.3,4.0,Small
+air tractor,402A,0.0,1.0,Small
+air tractor,402B,0.0,2.0,Small
 air tractor,502,0.09999999999999999,3.0,Small
 air tractor,502A,0.3,2.0,Small
 air tractor,502B,0.24444444444444446,9.0,Small
 air tractor,AT 300,0.0,1.0,Small
-air tractor,AT 301,0.10620689655172413,145.0,Small
-air tractor,AT 301A,0.10000000000000002,8.0,Small
+air tractor,AT 301,0.11071428571428572,112.0,Small
+air tractor,AT 301A,0.08333333333333333,6.0,Small
 air tractor,AT 301B,0.3,1.0,Small
 air tractor,AT 302,0.05,2.0,Small
-air tractor,AT 400,0.1590909090909091,22.0,Small
-air tractor,AT 400A,0.07777777777777779,9.0,Small
-air tractor,AT 401,0.08701298701298701,77.0,Small
+air tractor,AT 400,0.17894736842105263,19.0,Small
+air tractor,AT 400A,0.05714285714285714,7.0,Small
+air tractor,AT 401,0.09545454545454546,66.0,Small
 air tractor,AT 401 B,0.0,1.0,Small
-air tractor,AT 401B,0.21666666666666667,6.0,Small
-air tractor,AT 402,0.11363636363636365,22.0,Small
-air tractor,AT 402A,0.18666666666666665,15.0,Small
-air tractor,AT 402B,0.17368421052631577,19.0,Small
+air tractor,AT 401B,0.3,4.0,Small
+air tractor,AT 402,0.13157894736842105,19.0,Small
+air tractor,AT 402A,0.19090909090909092,11.0,Small
+air tractor,AT 402B,0.1875,8.0,Small
 air tractor,AT 501,0.0,2.0,Small
-air tractor,AT 502,0.14583333333333334,84.0,Small
-air tractor,AT 502A,0.3125,8.0,Small
-air tractor,AT 502B,0.10823529411764704,85.0,Small
+air tractor,AT 502,0.14491525423728813,59.0,Small
+air tractor,AT 502A,0.21666666666666665,6.0,Small
+air tractor,AT 502B,0.09318181818181817,44.0,Small
 air tractor,AT 503A,0.6,1.0,Small
 air tractor,AT 504,0.0,1.0,Small
-air tractor,AT 602,0.17720588235294116,68.0,Small
-air tractor,AT 802,0.1357142857142857,14.0,Small
+air tractor,AT 602,0.09861111111111111,36.0,Small
+air tractor,AT 802,0.0,1.0,Small
 air tractor,AT 802 A,0.0,1.0,Small
-air tractor,AT 802A,0.2243243243243243,37.0,Small
+air tractor,AT 802A,0.18,20.0,Small
 air tractor,AT 802F,0.0,1.0,Small
 air tractor,AT301,0.0,7.0,Small
 air tractor,AT301A,0.1,1.0,Small
@@ -227,24 +227,24 @@ air tractor,AT502B,0.44999999999999996,2.0,Small
 air tractor,AT503,0.3,1.0,Small
 air tractor,AT602,0.19999999999999998,6.0,Small
 air tractor,AT802,0.05555555555555555,9.0,Small
-air tractor,G 164A,0.0721784776902887,254.0,Small
-air tractor inc,AT,0.0,2.0,Small
-air tractor inc,AT 301,0.10620689655172413,145.0,Small
-air tractor inc,AT 301A,0.1,8.0,Small
-air tractor inc,AT 400,0.1590909090909091,22.0,Small
-air tractor inc,AT 400A,0.07777777777777778,9.0,Small
-air tractor inc,AT 401,0.08701298701298701,77.0,Small
-air tractor inc,AT 401B,0.21666666666666667,6.0,Small
-air tractor inc,AT 402,0.11363636363636363,22.0,Small
-air tractor inc,AT 402A,0.18666666666666665,15.0,Small
-air tractor inc,AT 402B,0.17368421052631577,19.0,Small
-air tractor inc,AT 502,0.14583333333333334,84.0,Small
-air tractor inc,AT 502A,0.3125,8.0,Small
-air tractor inc,AT 502B,0.10823529411764705,85.0,Small
-air tractor inc,AT 602,0.17720588235294116,68.0,Small
-air tractor inc,AT 802,0.1357142857142857,14.0,Small
-air tractor inc,AT 802A,0.2243243243243243,37.0,Small
-airbus,320,0.15740740740740738,18.0,Medium
+air tractor,G 164A,0.0,1.0,Small
+air tractor inc,AT,0.0,1.0,Small
+air tractor inc,AT 301,0.09090909090909091,33.0,Small
+air tractor inc,AT 301A,0.15,2.0,Small
+air tractor inc,AT 400,0.03333333333333333,3.0,Small
+air tractor inc,AT 400A,0.15,2.0,Small
+air tractor inc,AT 401,0.03636363636363637,11.0,Small
+air tractor inc,AT 401B,0.05,2.0,Small
+air tractor inc,AT 402,0.0,3.0,Small
+air tractor inc,AT 402A,0.175,4.0,Small
+air tractor inc,AT 402B,0.1636363636363636,11.0,Small
+air tractor inc,AT 502,0.148,25.0,Small
+air tractor inc,AT 502A,0.6,2.0,Small
+air tractor inc,AT 502B,0.12439024390243901,41.0,Small
+air tractor inc,AT 602,0.265625,32.0,Small
+air tractor inc,AT 802,0.14615384615384613,13.0,Small
+air tractor inc,AT 802A,0.27647058823529413,17.0,Small
+airbus,320,0.0,1.0,Medium
 airbus,321,0.0,1.0,Medium
 airbus,A 300 600ER,0.0,1.0,Medium
 airbus,A 300B4 605R,0.019289340101522844,1.0,Medium
@@ -274,16 +274,16 @@ airbus,A330 323,0.0,2.0,Large
 airbus,A340 300,0.009496124031007752,2.0,Large
 airbus,A350,0.0,1.0,Small
 airbus,A380,0.0,1.0,Large
-airbus,AS 350,0.05,4.0,Small
-airbus,AS 350 B3,0.1111111111111111,3.0,Small
+airbus,AS 350,0.0,1.0,Small
+airbus,AS 350 B3,0.15,2.0,Small
 airbus,AS 350 BA FX1,0.0,1.0,Small
-airbus,AS 350B2,0.0,2.0,Small
+airbus,AS 350B2,0.0,1.0,Small
 airbus,AS 350B3,0.1,1.0,Small
 airbus,AS350,0.17797619047619045,10.0,Small
 airbus,AS350 B2,0.075,2.0,Small
-airbus,AS350 B3,0.3583333333333334,2.0,Small
+airbus,AS350 B3,0.5166666666666667,1.0,Small
 airbus,AS350 B3E,0.3,1.0,Small
-airbus,AS350B3,0.0,2.0,Small
+airbus,AS350B3,0.0,1.0,Small
 airbus,AS350B3E,0.43333333333333335,2.0,Small
 airbus,EC 130,0.0,1.0,Small
 airbus,EC 130 B4,0.6,1.0,Small
@@ -319,23 +319,23 @@ aviat,S1 11B,0.0,1.0,Small
 aviat,S2,0.0,1.0,Small
 aviat,S2B,0.0,1.0,Small
 ayres,BULL THRUSH,0.0,1.0,Small
-ayres,S 2R,0.12142857142857143,105.0,Small
+ayres,S 2R,0.09285714285714286,14.0,Small
 ayres,S 2R T34,0.0,1.0,Small
-ayres,S2 R,0.15,4.0,Small
-ayres,S2R,0.09427083333333332,96.0,Small
+ayres,S2 R,0.0,2.0,Small
+ayres,S2R,0.08870967741935484,31.0,Small
 ayres,S2R 134,0.0,1.0,Small
 ayres,S2R 1820,0.0,1.0,Small
-ayres,S2R 600,0.07777777777777779,9.0,Small
+ayres,S2R 600,0.09999999999999999,7.0,Small
 ayres,S2R G1,0.0,2.0,Small
 ayres,S2R G10,0.045454545454545456,11.0,Small
 ayres,S2R G5,0.0,1.0,Small
 ayres,S2R G6,0.05384615384615384,13.0,Small
-ayres,S2R R1340,0.3,2.0,Small
+ayres,S2R R1340,0.6,1.0,Small
 ayres,S2R R1820,0.3,1.0,Small
 ayres,S2R T 34,0.0,1.0,Small
 ayres,S2R T11,0.15,2.0,Small
 ayres,S2R T15,0.29999999999999993,7.0,Small
-ayres,S2R T34,0.17777777777777776,36.0,Small
+ayres,S2R T34,0.18285714285714283,35.0,Small
 ayres,S2R T34AG,0.3,1.0,Small
 ayres,S2R T41,0.0,1.0,Small
 ayres,S2R T45,0.35,2.0,Small
@@ -348,13 +348,13 @@ ayres,S2RT34,0.44999999999999996,1.0,Small
 ayres,S2T T65,0.1,1.0,Small
 ayres,SR2,0.3,1.0,Small
 ayres,SR2 T34,0.0,2.0,Small
-beechcraft,100,0.14595959595959596,33.0,Small
+beechcraft,100,0.1,4.0,Small
 beechcraft,17,0.0,1.0,Small
 beechcraft,18,0.0,4.0,Small
 beechcraft,18 C45G,0.0,1.0,Small
 beechcraft,18S,0.05,1.0,Small
 beechcraft,18T,0.6,1.0,Small
-beechcraft,19,0.007142857142857143,14.0,Small
+beechcraft,19,0.008333333333333333,12.0,Small
 beechcraft,1900,0.10217391304347827,6.0,Small
 beechcraft,1900C,0.2507142857142857,21.0,Small
 beechcraft,1900D,0.04899435531788473,26.0,Small
@@ -385,7 +385,7 @@ beechcraft,35 C33A,0.205,10.0,Small
 beechcraft,35 P35,0.6,1.0,Small
 beechcraft,35 UNDESIGNAT,0.0,1.0,Small
 beechcraft,35/33,0.6,1.0,Small
-beechcraft,350,0.0,2.0,Small
+beechcraft,350,0.0,1.0,Small
 beechcraft,35A,0.3,2.0,Small
 beechcraft,35A33,0.35,1.0,Small
 beechcraft,35B33,0.2333333333333333,3.0,Small
@@ -397,7 +397,7 @@ beechcraft,36,0.163125,40.0,Small
 beechcraft,36TC,0.19999999999999998,3.0,Small
 beechcraft,390,0.15119047619047618,6.0,Small
 beechcraft,3NM,0.3,3.0,Small
-beechcraft,400,0.18,10.0,Small
+beechcraft,400,0.11428571428571428,7.0,Small
 beechcraft,400A,0.05,4.0,Small
 beechcraft,50,0.0,1.0,Small
 beechcraft,55,0.13333333333333333,24.0,Small
@@ -412,7 +412,7 @@ beechcraft,58 TC,0.6,1.0,Small
 beechcraft,58P,0.2575378787878788,44.0,Small
 beechcraft,58TC,0.35303030303030297,11.0,Small
 beechcraft,60,0.32564102564102565,13.0,Small
-beechcraft,65,0.28214285714285714,14.0,Small
+beechcraft,65,0.2961538461538461,13.0,Small
 beechcraft,65 80,0.0,1.0,Small
 beechcraft,65 88,0.0,1.0,Small
 beechcraft,65 90,0.23214285714285712,3.0,Small
@@ -732,8 +732,8 @@ beechcraft,V35TC,0.6,1.0,Small
 boeing,107 11,0.1,1.0,Small
 boeing,1942,0.0,1.0,Small
 boeing,1B75A,0.0,1.0,Small
-boeing,369D,0.12477678571428572,112.0,Small
-boeing,369E,0.12216145833333333,64.0,Small
+boeing,369D,0.3,1.0,Small
+boeing,369E,0.0,2.0,Small
 boeing,707 321B,0.37784810126582274,3.0,Medium
 boeing,707 323C,0.0,1.0,Small
 boeing,707 324C,0.0,1.0,Small
@@ -872,8 +872,8 @@ boeing,CH 47D,0.12,1.0,Small
 boeing,D75 N1,0.1,1.0,Small
 boeing,D75N1,0.025,8.0,Small
 boeing,DC 10,0.01888888888888889,1.0,Medium
-boeing,DHC 6 300,0.009090909090909092,11.0,Small
-boeing,DHC 8 102,0.0030769230769230765,5.0,Small
+boeing,DHC 6 300,0.0,1.0,Small
+boeing,DHC 8 102,0.005128205128205128,3.0,Small
 boeing,E75,0.017241379310344827,29.0,Small
 boeing,E75 N1,0.0,1.0,Small
 boeing,E75L300,0.3,1.0,Small
@@ -882,9 +882,9 @@ boeing,E75NL,0.0,1.0,Small
 boeing,H500D,0.0,1.0,Small
 boeing,HU 369 OH6A,0.1,1.0,Small
 boeing,IB75A,0.6,1.0,Small
-boeing,MD 10 10F,0.009523809523809523,3.0,Small
-boeing,MD 11,0.027944177671068427,8.0,Small
-boeing,MD600N,0.0,2.0,Small
+boeing,MD 10 10F,0.0,1.0,Small
+boeing,MD 11,0.0,1.0,Small
+boeing,MD600N,0.0,1.0,Small
 boeing,N2S 3,0.35,2.0,Small
 boeing,N2S 4,0.6,1.0,Small
 boeing,PT 13,0.0,2.0,Small
@@ -984,7 +984,7 @@ cessna,177A,0.11413043478260869,23.0,Small
 cessna,177B,0.14927184466019416,103.0,Small
 cessna,177BII,0.0,1.0,Small
 cessna,177RG,0.14501190476190476,140.0,Small
-cessna,180,0.053314350797266506,439.0,Small
+cessna,180,0.053436073059360725,438.0,Small
 cessna,180 A,0.0,3.0,Small
 cessna,180 B,0.0,2.0,Small
 cessna,180 H,0.0,1.0,Small
@@ -1123,7 +1123,7 @@ cessna,310P,0.09999999999999999,6.0,Small
 cessna,310Q,0.19915032679738562,51.0,Small
 cessna,310R,0.2513852813852814,77.0,Small
 cessna,310R II,0.016666666666666666,1.0,Small
-cessna,320,0.15740740740740738,18.0,Small
+cessna,320,0.16666666666666666,17.0,Small
 cessna,320 D,0.3,1.0,Small
 cessna,320A,0.19999999999999998,3.0,Small
 cessna,320B,0.05555555555555555,3.0,Small
@@ -1149,16 +1149,16 @@ cessna,340,0.22894736842105262,38.0,Small
 cessna,340 A,0.0,1.0,Small
 cessna,340A,0.267265625,64.0,Small
 cessna,340A RAM VI,0.0,1.0,Small
-cessna,350,0.0,2.0,Small
-cessna,400,0.18,10.0,Small
-cessna,401,0.175,18.0,Small
+cessna,350,0.0,1.0,Small
+cessna,400,0.44999999999999996,2.0,Small
+cessna,401,0.18529411764705883,17.0,Small
 cessna,401A,0.2761111111111111,9.0,Small
-cessna,401B,0.11874999999999998,4.0,Small
-cessna,402,0.10238095238095238,28.0,Small
+cessna,401B,0.05833333333333333,3.0,Small
+cessna,402,0.07246376811594202,23.0,Small
 cessna,402 B,0.025,2.0,Small
 cessna,402 C,0.3,2.0,Small
-cessna,402A,0.10714285714285714,13.0,Small
-cessna,402B,0.195,55.0,Small
+cessna,402A,0.11607142857142856,12.0,Small
+cessna,402B,0.20235849056603772,53.0,Small
 cessna,402C,0.14767441860465116,43.0,Small
 cessna,404,0.10625,16.0,Small
 cessna,411,0.2636363636363636,11.0,Small
@@ -1174,7 +1174,7 @@ cessna,421C,0.28411011904761907,80.0,Small
 cessna,421C RILEY TURBINE E,0.6,1.0,Small
 cessna,425,0.25529448621553885,19.0,Small
 cessna,441,0.267018779342723,24.0,Small
-cessna,500,0.21739130434782608,23.0,Small
+cessna,500,0.24666666666666665,15.0,Small
 cessna,501,0.31477272727272726,11.0,Small
 cessna,510,0.0,5.0,Small
 cessna,525,0.31960784313725493,17.0,Small
@@ -1183,11 +1183,11 @@ cessna,525B,0.0,3.0,Small
 cessna,525C,0.0,1.0,Small
 cessna,550,0.122754329004329,28.0,Small
 cessna,551,0.10571428571428572,7.0,Small
-cessna,560,0.2875,20.0,Small
+cessna,560,0.2676470588235294,17.0,Small
 cessna,560 XL,0.0,1.0,Small
 cessna,560XL,0.0,9.0,Small
 cessna,650,0.0,8.0,Small
-cessna,680,0.18333333333333335,6.0,Small
+cessna,680,0.0,2.0,Small
 cessna,750,0.0,2.0,Small
 cessna,A 185 F,0.0,2.0,Small
 cessna,A 188,0.35,2.0,Small
@@ -1436,18 +1436,18 @@ cessna,U206E,0.14402777777777778,12.0,Small
 cessna,U206F,0.18486111111111111,48.0,Small
 cessna,U206G,0.1706280193236715,69.0,Small
 champion,11BC S,0.15,1.0,Small
-champion,402,0.10238095238095238,28.0,Small
+champion,402,0.0,1.0,Small
 champion,7 GCAA,0.0,1.0,Small
 champion,7 GCBC,0.3,2.0,Small
-champion,7AC,0.12513736263736264,182.0,Small
+champion,7AC,0.12916666666666668,12.0,Small
 champion,7AC/BCM,0.6,1.0,Small
 champion,7ACA,0.0,1.0,Small
-champion,7BCM,0.1318181818181818,33.0,Small
-champion,7EC,0.13478260869565217,46.0,Small
+champion,7BCM,0.13999999999999999,5.0,Small
+champion,7EC,0.16875,32.0,Small
 champion,7EC 703,0.0,1.0,Small
 champion,7ECA,0.11813186813186813,91.0,Small
 champion,7ECA 326,0.2,1.0,Small
-champion,7FC,0.1,26.0,Small
+champion,7FC,0.10434782608695652,23.0,Small
 champion,7GC,0.0,9.0,Small
 champion,7GCAA,0.17258064516129032,31.0,Small
 champion,7GCB,0.05384615384615384,13.0,Small
@@ -1513,11 +1513,11 @@ de havilland,DHC 4A,0.44999999999999996,1.0,Small
 de havilland,DHC 6,0.07142857142857142,7.0,Small
 de havilland,DHC 6 100,0.26488095238095233,2.0,Small
 de havilland,DHC 6 200,0.11393939393939394,8.0,Small
-de havilland,DHC 6 300,0.009090909090909092,11.0,Small
+de havilland,DHC 6 300,0.01,10.0,Small
 de havilland,DHC 6 6,0.03333333333333333,1.0,Small
 de havilland,DHC 6 TWIN OTTER,0.03447204968944099,2.0,Small
 de havilland,DHC 8,0.0,3.0,Small
-de havilland,DHC 8 102,0.003076923076923077,5.0,Small
+de havilland,DHC 8 102,0.0,2.0,Small
 de havilland,DHC 8 311,0.001851851851851852,1.0,Small
 de havilland,DHC 94 MOTH MINOR,0.0,1.0,Small
 de havilland,DHC2,0.03333333333333333,6.0,Small
@@ -1580,14 +1580,14 @@ grumman,164A,0.15,8.0,Small
 grumman,164B,0.075,4.0,Small
 grumman,A6E,0.2333333333333333,1.0,Small
 grumman,AA,0.0,1.0,Small
-grumman,AA 1,0.1590909090909091,11.0,Small
-grumman,AA 1A,0.18888888888888888,9.0,Small
-grumman,AA 1B,0.23170731707317077,41.0,Small
+grumman,AA 1,0.11499999999999999,10.0,Small
+grumman,AA 1A,0.2,8.0,Small
+grumman,AA 1B,0.22624999999999998,40.0,Small
 grumman,AA 1C,0.1656521739130435,23.0,Small
-grumman,AA 5,0.20854700854700853,39.0,Small
+grumman,AA 5,0.21403508771929824,38.0,Small
 grumman,AA 5 TRAVELER,0.07500000000000001,1.0,Small
-grumman,AA 5A,0.2051388888888889,60.0,Small
-grumman,AA 5B,0.17794117647058824,68.0,Small
+grumman,AA 5A,0.16822916666666665,48.0,Small
+grumman,AA 5B,0.18303571428571427,56.0,Small
 grumman,AA 5KB,0.1,1.0,Small
 grumman,AA LC,0.2,1.0,Small
 grumman,AA1,0.25999999999999995,5.0,Small
@@ -1596,8 +1596,8 @@ grumman,AA1B TR2,0.1,1.0,Small
 grumman,AA1C,0.05,4.0,Small
 grumman,AA5,0.16071428571428573,14.0,Small
 grumman,AA5 A,0.1,1.0,Small
-grumman,AA5A,0.06000000000000002,5.0,Small
-grumman,AA5B,0.14531249999999998,16.0,Small
+grumman,AA5A,0.0,3.0,Small
+grumman,AA5B,0.1326923076923077,13.0,Small
 grumman,AG 5B,0.0,1.0,Small
 grumman,AG CAT G 164A,0.0,1.0,Small
 grumman,AG5B,0.0,2.0,Small
@@ -1608,15 +1608,15 @@ grumman,F8F 1,0.36666666666666664,2.0,Small
 grumman,F9F 2,0.3,1.0,Small
 grumman,FM 2,0.0,1.0,Small
 grumman,G 111,0.09999999999999999,1.0,Small
-grumman,G 1159,0.0,7.0,Small
+grumman,G 1159,0.0,6.0,Small
 grumman,G 159,0.42666666666666664,2.0,Small
-grumman,G 164,0.08442622950819673,61.0,Small
-grumman,G 164 A,0.0,6.0,Small
-grumman,G 164 B,0.025000000000000005,4.0,Small
-grumman,G 164A,0.0721784776902887,254.0,Small
-grumman,G 164B,0.08697183098591549,284.0,Small
-grumman,G 164C,0.05714285714285714,14.0,Small
-grumman,G 164D,0.14166666666666666,6.0,Small
+grumman,G 164,0.08879310344827587,58.0,Small
+grumman,G 164 A,0.0,4.0,Small
+grumman,G 164 B,0.03333333333333333,3.0,Small
+grumman,G 164A,0.07219973009446694,247.0,Small
+grumman,G 164B,0.08705583756345177,197.0,Small
+grumman,G 164C,0.06363636363636363,11.0,Small
+grumman,G 164D,0.375,2.0,Small
 grumman,G 21,0.005555555555555556,3.0,Small
 grumman,G 21A,0.21825396825396823,7.0,Small
 grumman,G 21E,0.6,1.0,Small
@@ -1624,12 +1624,12 @@ grumman,G 44,0.11428571428571428,14.0,Small
 grumman,G 44A,0.05,2.0,Small
 grumman,G 73T,0.6,2.0,Small
 grumman,G1159,0.6,1.0,Small
-grumman,G164,0.10588235294117647,34.0,Small
+grumman,G164,0.1090909090909091,33.0,Small
 grumman,G164 A,0.0,2.0,Small
 grumman,G164 B,0.19999999999999998,3.0,Small
 grumman,G164A,0.13999999999999999,5.0,Small
 grumman,G164A 450,0.1,1.0,Small
-grumman,G164B,0.038235294117647055,17.0,Small
+grumman,G164B,0.018181818181818184,11.0,Small
 grumman,G21,0.025,2.0,Small
 grumman,G21 G,0.6,1.0,Small
 grumman,G21A,0.1,2.0,Small
@@ -1648,26 +1648,26 @@ grumman,TMB 3E,0.0,1.0,Small
 grumman,TR 2,0.1,1.0,Small
 grumman,TS 2A,0.6,3.0,Small
 grumman,US 2C,0.6,1.0,Small
-gulfstream,500B,0.38055555555555554,9.0,Small
-gulfstream,690,0.1125,12.0,Small
-gulfstream,690B,0.32254901960784316,17.0,Small
-gulfstream,690C,0.13333333333333333,9.0,Small
+gulfstream,500B,0.3,1.0,Small
+gulfstream,690,0.6,1.0,Small
+gulfstream,690B,0.0,1.0,Small
+gulfstream,690C,0.15,4.0,Small
 gulfstream,695A,0.1111111111111111,3.0,Small
-gulfstream,AA 1,0.1590909090909091,11.0,Small
-gulfstream,AA 1A,0.18888888888888888,9.0,Small
-gulfstream,AA 1B,0.23170731707317074,41.0,Small
-gulfstream,AA 5,0.20854700854700853,39.0,Small
-gulfstream,AA 5A,0.2051388888888889,60.0,Small
-gulfstream,AA 5B,0.17794117647058824,68.0,Small
+gulfstream,AA 1,0.6,1.0,Small
+gulfstream,AA 1A,0.1,1.0,Small
+gulfstream,AA 1B,0.44999999999999996,1.0,Small
+gulfstream,AA 5,0.0,1.0,Small
+gulfstream,AA 5A,0.3527777777777778,12.0,Small
+gulfstream,AA 5B,0.15416666666666665,12.0,Small
 gulfstream,AA1A,0.3,1.0,Small
-gulfstream,AA5A,0.06000000000000001,5.0,Small
-gulfstream,AA5B,0.14531249999999998,16.0,Small
+gulfstream,AA5A,0.15000000000000002,2.0,Small
+gulfstream,AA5B,0.19999999999999998,3.0,Small
 gulfstream,COMMANDER,0.6,1.0,Small
-gulfstream,G 1159,0.0,7.0,Small
+gulfstream,G 1159,0.0,1.0,Small
 gulfstream,G 1159A,0.0,1.0,Small
-gulfstream,G 164B,0.08697183098591549,284.0,Small
-gulfstream,G 164C,0.05714285714285714,14.0,Small
-gulfstream,G 164D,0.14166666666666666,6.0,Small
+gulfstream,G 164B,0.10588235294117646,17.0,Small
+gulfstream,G 164C,0.0,2.0,Small
+gulfstream,G 164D,0.05,2.0,Small
 gulfstream,G III,0.6,1.0,Small
 gulfstream,G IV,0.15,8.0,Small
 gulfstream,G V,0.0,1.0,Small
@@ -1708,26 +1708,26 @@ hiller,UH12C,0.05,1.0,Small
 hiller,UH12D,0.0,1.0,Small
 hiller,UH12E,0.04,5.0,Small
 hughes,269,0.0,2.0,Small
-hughes,269 C,0.0,2.0,Small
-hughes,269A,0.14489795918367346,49.0,Small
+hughes,269 C,0.0,1.0,Small
+hughes,269A,0.14791666666666667,48.0,Small
 hughes,269A 1,0.09999999999999999,4.0,Small
-hughes,269B,0.10178571428571428,28.0,Small
-hughes,269C,0.12465277777777778,144.0,Small
-hughes,269C 1,0.078125,16.0,Small
-hughes,300C,0.1,8.0,Small
-hughes,369,0.26666666666666666,6.0,Small
+hughes,269B,0.08653846153846154,26.0,Small
+hughes,269C,0.1150462962962963,72.0,Small
+hughes,269C 1,0.1,1.0,Small
+hughes,300C,0.0,2.0,Small
+hughes,369,0.25,4.0,Small
 hughes,369A,0.27619047619047615,7.0,Small
 hughes,369B,0.6,1.0,Small
 hughes,369C,0.025000000000000005,3.0,Small
-hughes,369D,0.12477678571428572,112.0,Small
-hughes,369E,0.12216145833333332,64.0,Small
-hughes,369FF,0.20324074074074075,18.0,Small
+hughes,369D,0.09845360824742269,97.0,Small
+hughes,369E,0.14555555555555555,18.0,Small
+hughes,369FF,0.1,5.0,Small
 hughes,369HE,0.0,1.0,Small
-hughes,369HS,0.15828571428571428,35.0,Small
-hughes,500,0.21739130434782608,23.0,Small
+hughes,369HS,0.15999999999999998,34.0,Small
+hughes,500,0.0,1.0,Small
 hughes,500 D,0.0,1.0,Small
 hughes,500C,0.0,2.0,Small
-hughes,500D,0.08333333333333333,6.0,Small
+hughes,500D,0.05,4.0,Small
 hughes,H500C,0.0,1.0,Small
 hughes,HU 269 A,0.0,1.0,Small
 hughes,HU 369 D,0.1,1.0,Small
@@ -1839,19 +1839,19 @@ maule,MXT 7 180,0.19,5.0,Small
 maule,MXT 7 180A,0.12222222222222223,9.0,Small
 maule,MXT7,0.0,1.0,Small
 maule,MXT7 180A,0.0,1.0,Small
-mcdonnell douglas,269A,0.14489795918367346,49.0,Small
-mcdonnell douglas,369,0.26666666666666666,6.0,Small
-mcdonnell douglas,369D,0.12477678571428572,112.0,Small
-mcdonnell douglas,369E,0.12216145833333333,64.0,Small
+mcdonnell douglas,269A,0.0,1.0,Small
+mcdonnell douglas,369,0.3,2.0,Small
+mcdonnell douglas,369D,0.29464285714285715,14.0,Small
+mcdonnell douglas,369E,0.1181439393939394,44.0,Small
 mcdonnell douglas,369E (MD500E),0.3,1.0,Small
-mcdonnell douglas,369FF,0.20324074074074072,18.0,Small
-mcdonnell douglas,369HS,0.15828571428571428,35.0,Small
+mcdonnell douglas,369FF,0.24294871794871795,13.0,Small
+mcdonnell douglas,369HS,0.1,1.0,Small
 mcdonnell douglas,500 E,0.03333333333333333,1.0,Small
-mcdonnell douglas,500D,0.08333333333333333,6.0,Small
+mcdonnell douglas,500D,0.15,2.0,Small
 mcdonnell douglas,500E,0.0,2.0,Small
 mcdonnell douglas,500N,0.17499999999999996,6.0,Small
 mcdonnell douglas,520N,0.1225,2.0,Small
-mcdonnell douglas,600,0.08333333333333333,2.0,Small
+mcdonnell douglas,600,0.16666666666666666,1.0,Small
 mcdonnell douglas,600N,0.14102564102564102,13.0,Small
 mcdonnell douglas,A 4N,0.6,1.0,Small
 mcdonnell douglas,AH 64D,0.22499999999999998,1.0,Small
@@ -1882,8 +1882,8 @@ mcdonnell douglas,H 369,0.1,1.0,Small
 mcdonnell douglas,H369,0.0,1.0,Small
 mcdonnell douglas,HU 600N,0.6,1.0,Small
 mcdonnell douglas,MD 10,0.0,1.0,Small
-mcdonnell douglas,MD 10 10F,0.009523809523809523,3.0,Small
-mcdonnell douglas,MD 11,0.027944177671068427,8.0,Large
+mcdonnell douglas,MD 10 10F,0.014285714285714285,2.0,Small
+mcdonnell douglas,MD 11,0.03193620305264963,7.0,Large
 mcdonnell douglas,MD 11 F,0.05,1.0,Small
 mcdonnell douglas,MD 11/F,0.0,1.0,Small
 mcdonnell douglas,MD 11F,0.0,5.0,Large
@@ -1902,7 +1902,7 @@ mcdonnell douglas,MD 900,0.0,2.0,Small
 mcdonnell douglas,MD 902,0.0,1.0,Small
 mcdonnell douglas,MD369D,0.0,1.0,Small
 mcdonnell douglas,MD500,0.0,1.0,Small
-mcdonnell douglas,MD600N,0.0,2.0,Small
+mcdonnell douglas,MD600N,0.0,1.0,Small
 mcdonnell douglas,MD80,0.002586206896551724,1.0,Medium
 mcdonnell douglas,MD88,0.0007299270072992701,1.0,Medium
 mcdonnell douglas,MD90 30,0.0,1.0,Medium
@@ -1956,7 +1956,7 @@ mooney,M20TN,0.07333333333333333,15.0,Small
 mooney,M2OE,0.0,1.0,Small
 mooney,MARK 22,0.0,1.0,Small
 mooney,MO 20J,0.6,1.0,Small
-north american,AT,0.0,2.0,Small
+north american,AT,0.0,1.0,Small
 north american,AT 6,0.2375,8.0,Small
 north american,AT 6 D,0.0,1.0,Small
 north american,AT 6A,0.3,4.0,Small
@@ -1980,8 +1980,8 @@ north american,HARVARD MK II,0.3,2.0,Small
 north american,HARVARD MK IV,0.0,1.0,Small
 north american,NA 265 40,0.0,2.0,Small
 north american,NA 265 50,0.0,1.0,Small
-north american,NA 265 65,0.24,5.0,Small
-north american,NA 265 80,0.13124999999999998,8.0,Small
+north american,NA 265 65,0.0,1.0,Small
+north american,NA 265 80,0.3499999999999999,3.0,Small
 north american,NA 64,0.0,2.0,Small
 north american,NA1,0.3,1.0,Small
 north american,NAVION,0.24431818181818182,22.0,Small
@@ -1993,7 +1993,7 @@ north american,NAVION D,0.0,1.0,Small
 north american,NAVION H,0.6,1.0,Small
 north american,NAVION L 17A,0.0,1.0,Small
 north american,NAVION NA 1,0.0,1.0,Small
-north american,OV 10A,0.6,2.0,Small
+north american,OV 10A,0.6,1.0,Small
 north american,P 51,0.15,2.0,Small
 north american,P 51 D,0.3,1.0,Small
 north american,P 51C,0.6,1.0,Small
@@ -2030,8 +2030,8 @@ north american,T6,0.6,1.0,Small
 north american,T6 G,0.175,2.0,Small
 north american,T6G,0.0,2.0,Small
 north american,TB 25N,0.0,2.0,Small
-piper,180,0.053314350797266506,439.0,Small
-piper,20,0.020000000000000004,2.0,Small
+piper,180,0.0,1.0,Small
+piper,20,0.04000000000000001,1.0,Small
 piper,22,0.0,1.0,Small
 piper,28,0.0,1.0,Small
 piper,28 140,0.2,1.0,Small
@@ -2047,7 +2047,7 @@ piper,AEROSTAR 601,0.5041666666666667,2.0,Small
 piper,AEROSTAR 601P,0.2,9.0,Small
 piper,AEROSTAR 602P,0.3,4.0,Small
 piper,E2,0.0,1.0,Small
-piper,J 2,0.075,4.0,Small
+piper,J 2,0.09999999999999999,3.0,Small
 piper,J 3,0.10781249999999999,32.0,Small
 piper,J 3 C,0.05,1.0,Small
 piper,J 3 C65,0.3,2.0,Small
@@ -2426,69 +2426,69 @@ piper,PA=31 350,0.5666666666666667,1.0,Small
 piper,PT 46,0.0,1.0,Small
 piper,SARATOGA II TC PA32,0.0,1.0,Small
 piper,SENECA,0.025,2.0,Small
-rockwell,100,0.14595959595959596,33.0,Small
-rockwell,112,0.3125,20.0,Small
+rockwell,100,0.1,1.0,Small
+rockwell,112,0.36428571428571427,7.0,Small
 rockwell,112 TC,0.1,1.0,Small
 rockwell,112 TCA,0.6,1.0,Small
-rockwell,112A,0.09523809523809523,14.0,Small
+rockwell,112A,0.0861111111111111,12.0,Small
 rockwell,112B,0.0875,4.0,Small
 rockwell,112TC,0.0846153846153846,13.0,Small
 rockwell,112TCA,0.041666666666666664,6.0,Small
 rockwell,112YC,0.0,1.0,Small
 rockwell,114,0.18166666666666667,21.0,Small
 rockwell,114A,0.15,2.0,Small
-rockwell,500,0.21739130434782608,23.0,Small
-rockwell,500 S,0.07380952380952381,12.0,Small
-rockwell,500S,0.29,10.0,Small
-rockwell,500U,0.15,2.0,Small
-rockwell,680 E,0.2,2.0,Small
-rockwell,681,0.3,2.0,Small
-rockwell,685,0.09444444444444444,6.0,Small
-rockwell,690,0.1125,12.0,Small
+rockwell,500,0.35,2.0,Small
+rockwell,500 S,0.0,6.0,Small
+rockwell,500S,0.3,2.0,Small
+rockwell,500U,0.0,1.0,Small
+rockwell,680 E,0.3,1.0,Small
+rockwell,681,0.0,1.0,Small
+rockwell,685,0.0,1.0,Small
+rockwell,690,0.15,4.0,Small
 rockwell,690 A,0.6,1.0,Small
-rockwell,690A,0.3102941176470588,17.0,Small
-rockwell,690B,0.32254901960784316,17.0,Small
-rockwell,690C,0.13333333333333333,9.0,Small
-rockwell,700,0.0375,2.0,Small
+rockwell,690A,0.32999999999999996,5.0,Small
+rockwell,690B,0.32555555555555554,15.0,Small
+rockwell,690C,0.12,5.0,Small
+rockwell,700,0.075,1.0,Small
 rockwell,AC 112,0.0,1.0,Small
-rockwell,AC 690,0.0,3.0,Small
+rockwell,AC 690,0.0,2.0,Small
 rockwell,AC 690B,0.6,1.0,Small
 rockwell,AERO COMMANDER 112TC,0.44999999999999996,1.0,Small
 rockwell,AERO COMMANDER 500,0.0,1.0,Small
 rockwell,COMMANDER 112,0.1,1.0,Small
 rockwell,COMMANDER 114,0.26249999999999996,2.0,Small
 rockwell,GA 112TC,0.6,1.0,Small
-rockwell,NA 265 65,0.24,5.0,Small
-rockwell,NA 265 80,0.13124999999999998,8.0,Small
-rockwell,OV 10A,0.6,2.0,Small
+rockwell,NA 265 65,0.3,4.0,Small
+rockwell,NA 265 80,0.0,5.0,Small
+rockwell,OV 10A,0.6,1.0,Small
 rockwell,S 2D,0.1,1.0,Small
-rockwell,S 2R,0.12142857142857143,105.0,Small
+rockwell,S 2R,0.10965909090909091,88.0,Small
 rockwell,S 2R 1200,0.6,1.0,Small
 rockwell,S 2R THRUSH,0.1,1.0,Small
-rockwell,S2 R,0.15,4.0,Small
-rockwell,S2R,0.09427083333333332,96.0,Small
-rockwell,S2R 600,0.07777777777777778,9.0,Small
-rockwell,S2R R1340,0.3,2.0,Small
+rockwell,S2 R,0.3,2.0,Small
+rockwell,S2R,0.09,20.0,Small
+rockwell,S2R 600,0.0,2.0,Small
+rockwell,S2R R1340,0.0,1.0,Small
 rockwell,S2R R3S,0.0,1.0,Small
 rockwell,S2R THRUSH CMDR,0.0,1.0,Small
-schweizer,269 C,0.0,2.0,Small
+schweizer,269 C,0.0,1.0,Small
 schweizer,269 C1,0.0,1.0,Small
-schweizer,269B,0.10178571428571428,28.0,Small
-schweizer,269C,0.12465277777777778,144.0,Small
-schweizer,269C 1,0.078125,16.0,Small
+schweizer,269B,0.3,2.0,Small
+schweizer,269C,0.13425925925925924,72.0,Small
+schweizer,269C 1,0.07666666666666666,15.0,Small
 schweizer,269D,0.030000000000000006,5.0,Small
-schweizer,300C,0.10000000000000002,8.0,Small
-schweizer,G 164,0.08442622950819673,61.0,Small
-schweizer,G 164 A,0.0,6.0,Small
-schweizer,G 164 B,0.025,4.0,Small
-schweizer,G 164A,0.0721784776902887,254.0,Small
+schweizer,300C,0.13333333333333333,6.0,Small
+schweizer,G 164,0.0,3.0,Small
+schweizer,G 164 A,0.0,2.0,Small
+schweizer,G 164 B,0.0,1.0,Small
+schweizer,G 164A,0.08333333333333333,6.0,Small
 schweizer,G 164A 450,0.1,1.0,Small
-schweizer,G 164B,0.08697183098591549,284.0,Small
+schweizer,G 164B,0.08214285714285714,70.0,Small
 schweizer,G 164B 600,0.0,1.0,Small
-schweizer,G 164C,0.05714285714285714,14.0,Small
-schweizer,G 164D,0.14166666666666666,6.0,Small
-schweizer,G164,0.10588235294117647,34.0,Small
-schweizer,G164B,0.038235294117647055,17.0,Small
+schweizer,G 164C,0.1,1.0,Small
+schweizer,G 164D,0.0,2.0,Small
+schweizer,G164,0.0,1.0,Small
+schweizer,G164B,0.075,6.0,Small
 schweizer,G164D,0.05,2.0,Small
 schweizer,G167B,0.0,1.0,Small
 schweizer,GRUMMAN G 164A,0.0,1.0,Small
@@ -2528,8 +2528,8 @@ stinson,ST 75,0.0,2.0,Small
 stinson,V77,0.0,5.0,Small
 taylorcraft,12 M,0.3,1.0,Small
 taylorcraft,15A,0.03333333333333333,2.0,Small
-taylorcraft,19,0.0071428571428571435,14.0,Small
-taylorcraft,20,0.020000000000000004,2.0,Small
+taylorcraft,19,0.0,2.0,Small
+taylorcraft,20,0.0,1.0,Small
 taylorcraft,BC,0.0,1.0,Small
 taylorcraft,BC 12,0.16666666666666666,3.0,Small
 taylorcraft,BC 12 D,0.43333333333333335,3.0,Small
@@ -2560,7 +2560,7 @@ taylorcraft,F19,0.08461538461538462,13.0,Small
 taylorcraft,F21,0.0,2.0,Small
 taylorcraft,F21B,0.03333333333333333,3.0,Small
 taylorcraft,H 2,0.3,1.0,Small
-taylorcraft,J 2,0.075,4.0,Small
+taylorcraft,J 2,0.0,1.0,Small
 taylorcraft,L 2M,0.0,1.0,Small
 taylorcraft,L2A,0.0,1.0,Small
 taylorcraft,L2B,0.1,1.0,Small
